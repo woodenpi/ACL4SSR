@@ -1,6 +1,6 @@
 #**********************************************************************
-# 03.28
-# 2020年3月28日11:14:41
+# 04.03
+# 2020年4月3日15:42:09
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -10622,7 +10622,6 @@
 (^|\.)toolbarqueries\.google\.com$
 (^|\.)tools\.google\.com$
 (^|\.)tools\.l\.google\.com$
-(^|\.)translate\.googleapis\.com$
 (^|\.)update\.googleapis\.com$
 (^|\.)www-googletagmanager\.l\.google\.com$
 (^|\.)www\.gstatic\.com$
