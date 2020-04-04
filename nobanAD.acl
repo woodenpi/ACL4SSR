@@ -1,6 +1,6 @@
 #**********************************************************************
-# 04.03
-# 2020年4月3日15:42:09
+# 04.06
+# 2020年4月4日16:58:16
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -422,6 +422,20 @@
 (^|\.)vip\.com$
 (^|\.)vipstatic\.com$
 
+# Ximalaya 喜马拉雅
+(^|\.)ximalaya\.com$
+(^|\.)xmcdn\.com$
+
+# Xunlei 迅雷
+(^|\.)00cdn\.com$
+(^|\.)88cdn\.com$
+(^|\.)kanimg\.com$
+(^|\.)kankan\.com$
+(^|\.)p2cdn\.com$
+(^|\.)sandai\.net$
+(^|\.)thundercdn\.com$
+(^|\.)xunlei\.com$
+
 # YYeTs 人人影视
 (^|\.)jstucdn\.com$
 (^|\.)zimuzu\.io$
@@ -594,8 +608,6 @@
 (^|\.)jiathis\.com$
 (^|\.)jmstatic\.com$
 (^|\.)jumei\.com$
-(^|\.)kanimg\.com$
-(^|\.)kankan\.com$
 (^|\.)kaola\.com$
 (^|\.)knewone\.com$
 (^|\.)koowo\.com$
@@ -661,7 +673,6 @@
 (^|\.)rrmj\.tv$
 (^|\.)ruguoapp\.com$
 (^|\.)runoob\.com$
-(^|\.)sandai\.net$
 (^|\.)sankuai\.com$
 (^|\.)segmentfault\.com$
 (^|\.)sf-express\.com$
@@ -712,7 +723,6 @@
 (^|\.)xiumi\.us$
 (^|\.)xslb\.net$
 (^|\.)xueqiu\.com$
-(^|\.)xunlei\.com$
 (^|\.)yach\.me$
 (^|\.)yeepay\.com$
 (^|\.)yhd\.com$
