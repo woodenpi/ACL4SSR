@@ -48,7 +48,7 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
-# Top blocked sites
+# Top Blocked Sites
 DOMAIN-SUFFIX,4sqi.net
 DOMAIN-SUFFIX,a248.e.akamai.net
 DOMAIN-SUFFIX,adobedtm.com

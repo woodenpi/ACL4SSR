@@ -17335,7 +17335,7 @@
 (^|\.)\w*whatsapp\w*\.\w*$
 (^|\.)\w*youtube\w*\.\w*$
 
-# Top blocked sites
+# Top Blocked Sites
 (^|\.)4sqi\.net$
 (^|\.)a248\.e\.akamai\.net$
 (^|\.)adobedtm\.com$
