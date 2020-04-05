@@ -504,7 +504,7 @@
 (^|\.)staticfile\.org$
 (^|\.)upaiyun\.com$
 
-# Acceleratedirectsites
+# AccelerateDirectSites
 (^|\.)12306\.com$
 (^|\.)17173\.com$
 (^|\.)17k\.com$

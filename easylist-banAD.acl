@@ -10791,7 +10791,7 @@
 (^|\.)ximalaya\.com$
 (^|\.)xmcdn\.com$
 
-# 迅雷
+# Xunlei 迅雷
 (^|\.)00cdn\.com$
 (^|\.)88cdn\.com$
 (^|\.)kanimg\.com$
@@ -10868,7 +10868,7 @@
 (^|\.)staticfile\.org$
 (^|\.)upaiyun\.com$
 
-# Acceleratedirectsites
+# AccelerateDirectSites
 (^|\.)12306\.com$
 (^|\.)17173\.com$
 (^|\.)17k\.com$

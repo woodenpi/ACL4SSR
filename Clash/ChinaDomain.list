@@ -324,7 +324,7 @@ DOMAIN-SUFFIX,vipstatic.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 
-# 迅雷
+# Xunlei 迅雷
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,kanimg.com
@@ -398,7 +398,7 @@ IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
 
-# Public Direct CDN 公共直连cdn
+# Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
@@ -410,7 +410,7 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
-# Acceleratedirectsites
+# AccelerateDirectSites
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17k.com
