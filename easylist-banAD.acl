@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：8954条
+# 数量：8965条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -3179,6 +3179,7 @@
 (^|\.)br\.fling\.com$
 (^|\.)br\.realitykings\.com$
 (^|\.)brain\.foresee\.com$
+(^|\.)brassstacker\.com$
 (^|\.)bravo\.israelweather\.co\.il$
 (^|\.)brcache\.madthumbs\.com$
 (^|\.)breezily168\.com$
@@ -3535,6 +3536,7 @@
 (^|\.)cmp\.pcworld\.co\.nz$
 (^|\.)cmp\.pcworld\.com$
 (^|\.)cmp\.pcworld\.idg\.com\.au$
+(^|\.)cmp\.tech426\.com$
 (^|\.)cmp\.techadvisor\.co\.uk$
 (^|\.)cmp\.techhive\.com$
 (^|\.)cms\.fx678\.com$
@@ -3768,6 +3770,7 @@
 (^|\.)creatives\.pichunter\.com$
 (^|\.)creativetv\.pro$
 (^|\.)creator\.zmags\.com$
+(^|\.)crimentasaju\.site$
 (^|\.)criminglynuk\.pro$
 (^|\.)crm-analytics\.imweb\.ru$
 (^|\.)crocopop\.com$
@@ -3993,6 +3996,7 @@
 (^|\.)debug-vp\.webmd\.com$
 (^|\.)decisionediv\.site$
 (^|\.)deepknow\.egoid\.me$
+(^|\.)definitedikdra\.site$
 (^|\.)dehua\.ixinfan\.com$
 (^|\.)dejavu\.mercadolivre\.com\.br$
 (^|\.)delainlygoverhe\.info$
@@ -6511,6 +6515,7 @@
 (^|\.)mgldzcls\.com$
 (^|\.)mglvqian\.com$
 (^|\.)mgsue\.cn$
+(^|\.)mgtv-bbqn\.oss-cn-beijing\.aliyuncs\.com$
 (^|\.)mgwcn\.com$
 (^|\.)mgzs\.cdn\.bcebos\.com$
 (^|\.)mhj765\.xyz$
@@ -7333,6 +7338,8 @@
 (^|\.)propbigo\.com$
 (^|\.)propeanfanku\.site$
 (^|\.)prophet\.heise\.de$
+(^|\.)protection-booster\.club$
+(^|\.)protection-cleaner\.club$
 (^|\.)protection-device\.club$
 (^|\.)protection-fix\.club$
 (^|\.)protection-fixer\.club$
@@ -7868,6 +7875,7 @@
 (^|\.)servedby\.o2\.co\.uk$
 (^|\.)service-stat\.tbn\.ru$
 (^|\.)service4refresh\.info$
+(^|\.)services\.hmhost\.co\.uk$
 (^|\.)servicetick\.com$
 (^|\.)session-tracker\.badcreditloans\.com$
 (^|\.)session\.timecommerce\.net$
@@ -8030,6 +8038,9 @@
 (^|\.)sosjyx\.com$
 (^|\.)soso\.mymederback\.com$
 (^|\.)soso\.ws$
+(^|\.)sourcepoint-mms\.aetv\.com$
+(^|\.)sourcepoint-mms\.history\.com$
+(^|\.)sourcepoint-mms\.mylifetime\.com$
 (^|\.)sourcepoint\.vice\.com$
 (^|\.)sousaira\.com$
 (^|\.)soza6rsz3ezi\.com$

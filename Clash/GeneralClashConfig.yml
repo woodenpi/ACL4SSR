@@ -490,7 +490,7 @@ cfw-bypass:
   # Ximalaya 喜马拉雅
   - "*.ximalaya.com"
   - "*.xmcdn.com"
-  # 迅雷
+  # Xunlei 迅雷
   - "*.00cdn.com"
   - "*.88cdn.com"
   - "*.kanimg.com"
@@ -551,14 +551,14 @@ cfw-bypass:
   - "*.totheglory.im"
   # TeamViewer
   - "*.teamviewer.com"
-  # Public Direct CDN 公共直连cdn
+  # Public Direct CDN 公共直连
   - "*.baomitu.com"
   - "*.bootcss.com"
   - "*.jiasule.com"
   - "*.jsdelivr.net"
   - "*.staticfile.org"
   - "*.upaiyun.com"
-  # Acceleratedirectsites
+  # AccelerateDirectSites
   - "*.12306.com"
   - "*.17173.com"
   - "*.17k.com"

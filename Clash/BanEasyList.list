@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyList列表，包含ABP中的 EasyList + EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
-# 更新：2020-04-05 15:15:26
-# 数量：6424条
+# 更新：2020-04-05 17:56:10
+# 数量：6430条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -1290,6 +1290,7 @@ DOMAIN-SUFFIX,bqqsdv73724.cn
 DOMAIN-SUFFIX,br.blackfling.com
 DOMAIN-SUFFIX,br.fling.com
 DOMAIN-SUFFIX,br.realitykings.com
+DOMAIN-SUFFIX,brassstacker.com
 DOMAIN-SUFFIX,brcache.madthumbs.com
 DOMAIN-SUFFIX,breezily168.com
 DOMAIN-SUFFIX,brinarynuker.site
@@ -1640,6 +1641,7 @@ DOMAIN-SUFFIX,creatives.inmotionhosting.com
 DOMAIN-SUFFIX,creatives.livejasmin.com
 DOMAIN-SUFFIX,creatives.pichunter.com
 DOMAIN-SUFFIX,creativetv.pro
+DOMAIN-SUFFIX,crimentasaju.site
 DOMAIN-SUFFIX,criminglynuk.pro
 DOMAIN-SUFFIX,crocopop.com
 DOMAIN-SUFFIX,crptgate.com
@@ -1818,6 +1820,7 @@ DOMAIN-SUFFIX,deacon.ghfkk.com
 DOMAIN-SUFFIX,deatheriwevo.site
 DOMAIN-SUFFIX,debadu.com
 DOMAIN-SUFFIX,decisionediv.site
+DOMAIN-SUFFIX,definitedikdra.site
 DOMAIN-SUFFIX,dehua.ixinfan.com
 DOMAIN-SUFFIX,delainlygoverhe.info
 DOMAIN-SUFFIX,deliver.ifeng.com
@@ -3773,6 +3776,7 @@ DOMAIN-SUFFIX,mg.glwxw.net
 DOMAIN-SUFFIX,mgldzcls.com
 DOMAIN-SUFFIX,mglvqian.com
 DOMAIN-SUFFIX,mgsue.cn
+DOMAIN-SUFFIX,mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,mgwcn.com
 DOMAIN-SUFFIX,mgzs.cdn.bcebos.com
 DOMAIN-SUFFIX,mhj765.xyz
@@ -4364,6 +4368,8 @@ DOMAIN-SUFFIX,promote.pair.com
 DOMAIN-SUFFIX,promotions.iasbet.com
 DOMAIN-SUFFIX,propbigo.com
 DOMAIN-SUFFIX,propeanfanku.site
+DOMAIN-SUFFIX,protection-booster.club
+DOMAIN-SUFFIX,protection-cleaner.club
 DOMAIN-SUFFIX,protection-device.club
 DOMAIN-SUFFIX,protection-fix.club
 DOMAIN-SUFFIX,protection-fixer.club

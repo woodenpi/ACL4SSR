@@ -1,5 +1,5 @@
 # 内容：国外媒体列表
-# 更新：2020-04-02 21:48:57
+# 更新：2020-04-05 17:56:13
 # 数量：242条
 
 # ABC
@@ -39,17 +39,17 @@ DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,primevideo.com
 
-# Apple News
+# AppleNews
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
 DOMAIN,gspe1-ssl.ls.apple.com
 
-# Apple TV
+# AppleTV
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 
-# BBC iPlayer
+# BBCiPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
@@ -80,7 +80,7 @@ USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
 
-# Disney Plus
+# DisneyPlus
 USER-AGENT,Disney*
 USER-AGENT,Disney+*
 DOMAIN,cdn.registerdisney.go.com
@@ -100,14 +100,14 @@ DOMAIN,edge.api.brightcove.com
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,encoretvb.com
 
-# Fox Now
+# FoxNow
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
 
-# Fox+
+# FoxPlus
 USER-AGENT,FOXPlus*
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,foxplus.com
@@ -149,7 +149,7 @@ DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
 
-# Hulu_Japan
+# HuluJapan
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
 
@@ -192,7 +192,7 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
 
-# Line TV
+# LineTV
 USER-AGENT,LINE%20TV*
 USER-AGENT,LINE*
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
@@ -205,7 +205,7 @@ DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 
-# MyTV SUPER
+# MyTVSuper
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
