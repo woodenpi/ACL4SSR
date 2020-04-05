@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-02 21:50:28
-# 数量：2526条
+# 更新：2020-04-05 15:15:28
+# 数量：2533条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -132,6 +132,7 @@ DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk
 DOMAIN-SUFFIX,analytics.epi.es
 DOMAIN-SUFFIX,analytics.fairfax.com.au
 DOMAIN-SUFFIX,analytics.favcy.com
+DOMAIN-SUFFIX,analytics.footballdb.com
 DOMAIN-SUFFIX,analytics.foresee.com
 DOMAIN-SUFFIX,analytics.freespee.com
 DOMAIN-SUFFIX,analytics.gameforge.de
@@ -175,6 +176,7 @@ DOMAIN-SUFFIX,analytics.ngfiles.com
 DOMAIN-SUFFIX,analytics.onlyonlinemarketing.com
 DOMAIN-SUFFIX,analytics.optilead.co.uk
 DOMAIN-SUFFIX,analytics.orenshmu.com
+DOMAIN-SUFFIX,analytics.ostr.io
 DOMAIN-SUFFIX,analytics.paddle.com
 DOMAIN-SUFFIX,analytics.performable.com
 DOMAIN-SUFFIX,analytics.photorank.me
@@ -901,6 +903,7 @@ DOMAIN-SUFFIX,ga.kvideo.io
 DOMAIN-SUFFIX,ga.nsimg.net
 DOMAIN-SUFFIX,ga.webdigi.co.uk
 DOMAIN-SUFFIX,gak.webtoons.com
+DOMAIN-SUFFIX,gamesradar-gb.gamesradar.com
 DOMAIN-SUFFIX,ganon.yahoo.com
 DOMAIN-SUFFIX,gateway.foresee.com
 DOMAIN-SUFFIX,gay-hotvideo.net
@@ -1512,6 +1515,8 @@ DOMAIN-SUFFIX,referer.pixplug.in
 DOMAIN-SUFFIX,referrer.disqus.com
 DOMAIN-SUFFIX,rek.www.wp.pl
 DOMAIN-SUFFIX,rel.msn.com
+DOMAIN-SUFFIX,rel.nextinpact.com
+DOMAIN-SUFFIX,rel2.nextinpact.com
 DOMAIN-SUFFIX,rem-track.bild.de
 DOMAIN-SUFFIX,report-zt.allmusic.com
 DOMAIN-SUFFIX,report.meituan.com
@@ -1605,6 +1610,7 @@ DOMAIN-SUFFIX,sitelife.ehow.com
 DOMAIN-SUFFIX,ski1.skiset.com
 DOMAIN-SUFFIX,slipstream.skyscanner.net
 DOMAIN-SUFFIX,sls2.loisirsencheres.com
+DOMAIN-SUFFIX,sm.pcmag.com
 DOMAIN-SUFFIX,smetrics.delta.com
 DOMAIN-SUFFIX,smrt.as
 DOMAIN-SUFFIX,snowplow.swm.digital
@@ -2315,6 +2321,7 @@ DOMAIN-SUFFIX,tracking.rightmessage.com
 DOMAIN-SUFFIX,tracking.rtl.de
 DOMAIN-SUFFIX,tracking.s24.com
 DOMAIN-SUFFIX,tracking.searchmarketing.com
+DOMAIN-SUFFIX,tracking.shopstyle.com
 DOMAIN-SUFFIX,tracking.shoptogether.buy.com
 DOMAIN-SUFFIX,tracking.softwareprojects.com
 DOMAIN-SUFFIX,tracking.sokrati.com
