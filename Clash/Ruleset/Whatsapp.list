@@ -1,5 +1,6 @@
-# 内容： Whatsapp
-# 数量：15条
+# 内容：Whatsapp
+# 数量：16条
+DOMAIN-KEYWORD,whatsapp
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
