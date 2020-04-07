@@ -1,6 +1,6 @@
 #**********************************************************************
-# 04.06
-# 2020年4月4日16:58:16
+# 04.07
+# 2020年4月7日21:52:10
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：8996条
+# 数量：9015条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1578,6 +1578,7 @@
 (^|\.)0klxjejyxak3\.com$
 (^|\.)0n6h\.cn$
 (^|\.)0nin\.cn$
+(^|\.)0oaqgsk54hm5\.com$
 (^|\.)0ozo\.cn$
 (^|\.)0pj1f\.cn$
 (^|\.)0qkc\.cn$
@@ -1763,6 +1764,7 @@
 (^|\.)28mcw1\.cn$
 (^|\.)293870\.com$
 (^|\.)29wjns\.com$
+(^|\.)2b815136jjjv\.com$
 (^|\.)2byuf\.cn$
 (^|\.)2d-c\.cn$
 (^|\.)2fnrc\.cn$
@@ -2031,6 +2033,7 @@
 (^|\.)85wa\.cn$
 (^|\.)860010\.com$
 (^|\.)87gw0fl0rc11\.com$
+(^|\.)88-baidu\.com$
 (^|\.)8800271\.com\.cn$
 (^|\.)88818122\.cn$
 (^|\.)8881919\.cc$
@@ -2107,6 +2110,7 @@
 (^|\.)9a6wb\.cn$
 (^|\.)9d766be9a3\.com$
 (^|\.)9d7in\.cn$
+(^|\.)9dffa299bbc098481e6a\.com$
 (^|\.)9h6qq\.cn$
 (^|\.)9kff\.com$
 (^|\.)9nwg9sib9e\.com$
@@ -2142,6 +2146,7 @@
 (^|\.)a\.miyudaquan\.top$
 (^|\.)a\.mobify\.com$
 (^|\.)a\.nanhuwang\.com$
+(^|\.)a\.o2u\.jp$
 (^|\.)a\.oh100\.com$
 (^|\.)a\.qinghua5\.com$
 (^|\.)a\.qsjiajiao\.com$
@@ -3295,6 +3300,7 @@
 (^|\.)capture\.condenastdigital\.com$
 (^|\.)car\.qcmrjx\.com$
 (^|\.)car156\.net$
+(^|\.)cardmrket\.com$
 (^|\.)caredaily\.me$
 (^|\.)carl\.pubsvs\.com$
 (^|\.)carpenterrprp\.com$
@@ -3379,6 +3385,7 @@
 (^|\.)cferw\.com$
 (^|\.)cfhijdsb\.cn$
 (^|\.)cfqpxzx\.com$
+(^|\.)cfredh\.cn$
 (^|\.)cg2017\.com$
 (^|\.)cgaij\.com$
 (^|\.)cghc87\.cn$
@@ -4397,6 +4404,7 @@
 (^|\.)eqiuy\.com$
 (^|\.)eralsstroying\.info$
 (^|\.)eraltradiansid\.info$
+(^|\.)ercredici\.info$
 (^|\.)erdsyzb\.com$
 (^|\.)erecommerchh\.info$
 (^|\.)erkhxw\.com$
@@ -4932,6 +4940,7 @@
 (^|\.)ghosttty\.cn$
 (^|\.)gilzana\.pw$
 (^|\.)giroud\.top$
+(^|\.)gitoku\.com$
 (^|\.)gj\.mmstat\.com$
 (^|\.)gj632\.cn$
 (^|\.)gjghy\.com$
@@ -5222,6 +5231,7 @@
 (^|\.)hengshui1\.com$
 (^|\.)heraldscotland-gb\.heraldscotland\.com$
 (^|\.)hermes\.theglobeandmail\.com$
+(^|\.)hesterinoc\.info$
 (^|\.)hesxz\.com$
 (^|\.)heygugu\.com$
 (^|\.)heylookhere\.top$
@@ -5595,6 +5605,7 @@
 (^|\.)italy-lottery\.com$
 (^|\.)itcoder\.top$
 (^|\.)itemccmod\.com$
+(^|\.)itllnww6x277\.com$
 (^|\.)itracking\.fccinteractive\.com$
 (^|\.)iulianus-mon\.com$
 (^|\.)iupot\.com$
@@ -5890,6 +5901,7 @@
 (^|\.)kaukoany\.net$
 (^|\.)kawa11\.space$
 (^|\.)kawinhome\.com$
+(^|\.)kayakm\.com$
 (^|\.)kbn\.korben\.info$
 (^|\.)kbstyn\.com$
 (^|\.)kc\.gouchezj\.com$
@@ -6087,6 +6099,7 @@
 (^|\.)lcs\.livedoor\.net$
 (^|\.)ldevillaechildren\.info$
 (^|\.)ldgjhd\.net$
+(^|\.)ldingchristing\.site$
 (^|\.)le4le\.com$
 (^|\.)leabd\.douguo\.com$
 (^|\.)leadtracking\.plumvoice\.com$
@@ -6666,6 +6679,7 @@
 (^|\.)mqies\.com$
 (^|\.)mqs\.ioam\.de$
 (^|\.)mr087\.cn$
+(^|\.)mr5aqoqlegsp\.com$
 (^|\.)mreod\.cn$
 (^|\.)mrksys\.com$
 (^|\.)ms\.cnbanbao\.com$
@@ -7814,6 +7828,7 @@
 (^|\.)santrateduk\.site$
 (^|\.)sapsixysho\.pro$
 (^|\.)sarjor\.pw$
+(^|\.)sarydrinkletr\.site$
 (^|\.)sat\.sanoma\.fi$
 (^|\.)saturalerdax\.site$
 (^|\.)sayac\.hurriyettv\.com$
@@ -8023,7 +8038,6 @@
 (^|\.)sls2\.loisirsencheres\.com$
 (^|\.)slvtx\.com$
 (^|\.)slygzsc\.cn$
-(^|\.)sm\.pcmag\.com$
 (^|\.)sm077\.com$
 (^|\.)smallmovieapp\.com$
 (^|\.)smart\.styria-digital\.com$
@@ -8449,6 +8463,7 @@
 (^|\.)streaming\.rtbiddingplatform\.com$
 (^|\.)stremanp\.com$
 (^|\.)striesastanov\.site$
+(^|\.)strikersucces\.site$
 (^|\.)sts\.eccmp\.com$
 (^|\.)stsywl\.com$
 (^|\.)stunninglover\.com$
@@ -8850,6 +8865,7 @@
 (^|\.)topgreatxoffers\.com$
 (^|\.)torimochi\.line-apps\.com$
 (^|\.)toruk\.tanx\.com$
+(^|\.)torytalenty\.site$
 (^|\.)tosfeed\.com$
 (^|\.)totachrl\.com$
 (^|\.)totogetica\.com$
@@ -9218,6 +9234,7 @@
 (^|\.)u\.63kc\.com$
 (^|\.)u\.cnzol\.com$
 (^|\.)u\.huoying666\.com$
+(^|\.)u\.zuoyesou\.com$
 (^|\.)u0r9\.cn$
 (^|\.)u1\.2048sj\.com$
 (^|\.)u1\.20q\.cn$
@@ -9597,6 +9614,7 @@
 (^|\.)weixiangzu\.cn$
 (^|\.)weixingshexiangji\.net$
 (^|\.)weiziqiang\.top$
+(^|\.)welsworn\.info$
 (^|\.)wemdsm\.com$
 (^|\.)wenbangsh\.com\.cn$
 (^|\.)wenzhougy\.cn$
@@ -10049,6 +10067,7 @@
 (^|\.)yfycy\.com$
 (^|\.)yfyoyo\.com$
 (^|\.)yg10x\.cn$
+(^|\.)yg592gpmrh0q\.com$
 (^|\.)ygblogtag\.cn$
 (^|\.)ygqczh\.com$
 (^|\.)yguap\.com$
