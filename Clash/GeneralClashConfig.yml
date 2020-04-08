@@ -454,7 +454,6 @@ cfw-bypass:
   - "*.hockeyapp.net"
   - "*.smartmailcloud.com"
   # Steam
-  - "*.steampowered.com"
   - "*.steam-chat.com"
   - "*.steamgames.com"
   - "*.steamusercontent.com"
