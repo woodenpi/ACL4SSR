@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-07 21:50:09
-# 数量：4979条
+# 更新：2020-04-09 00:00:10
+# 数量：4984条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -237,6 +237,7 @@ DOMAIN-SUFFIX,2g2h.com
 DOMAIN-SUFFIX,2gvuukm1lm.com
 DOMAIN-SUFFIX,2hqd0b.cn
 DOMAIN-SUFFIX,2ktd0.cn
+DOMAIN-SUFFIX,2l1f.cn
 DOMAIN-SUFFIX,2m2n.com
 DOMAIN-SUFFIX,2p1ih.cn
 DOMAIN-SUFFIX,2pmob.com
@@ -430,6 +431,7 @@ DOMAIN-SUFFIX,71zrh.cn
 DOMAIN-SUFFIX,733xs.top
 DOMAIN-SUFFIX,73cm.com
 DOMAIN-SUFFIX,74p030.cn
+DOMAIN-SUFFIX,74vc.cn
 DOMAIN-SUFFIX,757g7g.cn
 DOMAIN-SUFFIX,766ba.net
 DOMAIN-SUFFIX,76e.org
@@ -3979,6 +3981,7 @@ DOMAIN-SUFFIX,tuoxintrade.cn
 DOMAIN-SUFFIX,tvbyb04.com
 DOMAIN-SUFFIX,twitterzs.com
 DOMAIN-SUFFIX,twldmx.com
+DOMAIN-SUFFIX,twodogegg.cn
 DOMAIN-SUFFIX,twzui6.com
 DOMAIN-SUFFIX,txdwc.cn
 DOMAIN-SUFFIX,txstatic.cn
@@ -4073,6 +4076,7 @@ DOMAIN-SUFFIX,v44i.cn
 DOMAIN-SUFFIX,v707070.com
 DOMAIN-SUFFIX,va88p.cn
 DOMAIN-SUFFIX,vaedan.top
+DOMAIN-SUFFIX,vasb.cn
 DOMAIN-SUFFIX,vb4rvq.cn
 DOMAIN-SUFFIX,vbaiu.com
 DOMAIN-SUFFIX,vbanm.com
@@ -4559,6 +4563,7 @@ DOMAIN-SUFFIX,ydouu.com
 DOMAIN-SUFFIX,ydqzkj.com
 DOMAIN-SUFFIX,yenlm.com
 DOMAIN-SUFFIX,yese115.com
+DOMAIN-SUFFIX,yese161.com
 DOMAIN-SUFFIX,yetaiguang.cn
 DOMAIN-SUFFIX,yexfes.com
 DOMAIN-SUFFIX,yeyajipp.com

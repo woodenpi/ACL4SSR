@@ -548,6 +548,7 @@ cfw-bypass:
   - "*.springsunday.net"
   - "*.tjupt.org"
   - "*.totheglory.im"
+  - "*.trontv.com"
   # TeamViewer
   - "*.teamviewer.com"
   # Public Direct CDN 公共直连
