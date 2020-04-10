@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-09 00:00:10
-# 数量：4984条
+# 更新：2020-04-10 13:39:33
+# 数量：4988条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -645,6 +645,7 @@ DOMAIN-SUFFIX,abds.pingpingw.com
 DOMAIN-SUFFIX,abeij.com
 DOMAIN-SUFFIX,abfirst.cn
 DOMAIN-SUFFIX,abie10.top
+DOMAIN-SUFFIX,abie11.top
 DOMAIN-SUFFIX,abie9.top
 DOMAIN-SUFFIX,abuse8.com
 DOMAIN-SUFFIX,ac.86huoche.com
@@ -1015,6 +1016,7 @@ DOMAIN-SUFFIX,blossommo.com
 DOMAIN-SUFFIX,bmfwwz.top
 DOMAIN-SUFFIX,bmgan.com
 DOMAIN-SUFFIX,bmuju.com
+DOMAIN-SUFFIX,bndbddt.top
 DOMAIN-SUFFIX,bnetds.cn
 DOMAIN-SUFFIX,bninc2.cn
 DOMAIN-SUFFIX,bnq86.com
@@ -3706,6 +3708,7 @@ DOMAIN-SUFFIX,sjaidu.com
 DOMAIN-SUFFIX,sjbaiduadv1.redou.com
 DOMAIN-SUFFIX,sjczsc.com
 DOMAIN-SUFFIX,sjgnskf.com
+DOMAIN-SUFFIX,sjljz.cn
 DOMAIN-SUFFIX,sjmwkj.cn
 DOMAIN-SUFFIX,sjuqc.com
 DOMAIN-SUFFIX,sjy-stone.com.cn
@@ -4788,6 +4791,7 @@ DOMAIN-SUFFIX,zh1144.com
 DOMAIN-SUFFIX,zhaibei112.top
 DOMAIN-SUFFIX,zhamm.cn
 DOMAIN-SUFFIX,zhangkc.com
+DOMAIN-SUFFIX,zhanjiangletian.com
 DOMAIN-SUFFIX,zhao258.com
 DOMAIN-SUFFIX,zhengyejixie.com
 DOMAIN-SUFFIX,zhengzhoupengbo.com

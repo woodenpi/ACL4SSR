@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-04-06 14:18:15
-# 数量：242条
+# 更新：2020-04-10 13:39:43
+# 数量：249条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -53,7 +53,14 @@ DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
+DOMAIN,vod-dash-uk-live.akamaized.net
+DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net
+DOMAIN,vod-thumb-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net
+DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 
 # Bahamut
