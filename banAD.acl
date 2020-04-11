@@ -8729,6 +8729,27 @@
 (^|\.)pixiv\.net$
 (^|\.)pximg\.net$
 
+# Porn
+(^|\.)\w*porn\w*\.\w*$
+(^|\.)8teenxxx\.com$
+(^|\.)ahcdn\.com$
+(^|\.)bcvcdn\.com$
+(^|\.)bongacams\.com$
+(^|\.)chaturbate\.com$
+(^|\.)dditscdn\.com$
+(^|\.)livejasmin\.com$
+(^|\.)rdtcdn\.com$
+(^|\.)redtube\.com$
+(^|\.)sb-cd\.com$
+(^|\.)spankbang\.com$
+(^|\.)t66y\.com$
+(^|\.)xhamster\.com$
+(^|\.)xnxx-cdn\.com$
+(^|\.)xnxx\.com$
+(^|\.)xvideos-cdn\.com$
+(^|\.)xvideos\.com$
+(^|\.)ypncdn\.com$
+
 # ResiloSync
 (^|\.)config\.getsync\.com$
 (^|\.)config\.resilio\.com$

@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9090条
+# 数量：9113条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1575,6 +1575,7 @@
 (^|\.)0b6h\.cn$
 (^|\.)0bc\.top$
 (^|\.)0c9d45a04fff\.com$
+(^|\.)0cf40a2064ce2\.com$
 (^|\.)0fwg\.cn$
 (^|\.)0klxjejyxak3\.com$
 (^|\.)0n6h\.cn$
@@ -1748,6 +1749,7 @@
 (^|\.)23456dj\.com$
 (^|\.)23dsf\.top$
 (^|\.)24haitao\.net$
+(^|\.)2526game\.com$
 (^|\.)25348f89a3\.com$
 (^|\.)258580w\.cn$
 (^|\.)258pcf\.com$
@@ -1968,6 +1970,7 @@
 (^|\.)6d2d5f558f3\.com$
 (^|\.)6ddc\.tartine-et-chocolat\.com$
 (^|\.)6dvip\.com$
+(^|\.)6e1167fc12a\.com$
 (^|\.)6fai2\.cn$
 (^|\.)6huu\.com$
 (^|\.)6l1967\.cn$
@@ -2052,6 +2055,7 @@
 (^|\.)892155\.com$
 (^|\.)89h8\.com$
 (^|\.)89tyge\.top$
+(^|\.)8a13cd2a7e\.com$
 (^|\.)8ao8ao\.com$
 (^|\.)8b5a31f63acbeb2d1d88\.com$
 (^|\.)8byu\.cn$
@@ -2074,6 +2078,7 @@
 (^|\.)8v61j\.cn$
 (^|\.)8v7wg\.com$
 (^|\.)904ad\.com$
+(^|\.)90ad550f42\.com$
 (^|\.)910weixin\.com$
 (^|\.)913nd\.dieti-natura\.es$
 (^|\.)913vt\.com$
@@ -2496,11 +2501,13 @@
 (^|\.)alappropolylibe\.site$
 (^|\.)alb\.reddit\.com$
 (^|\.)albalbant\.com$
+(^|\.)albarkale\.site$
 (^|\.)albertonne\.com$
 (^|\.)alcreasalcon\.info$
 (^|\.)aleaidass\.site$
 (^|\.)alealebag\.site$
 (^|\.)aleapeact\.club$
+(^|\.)alespeonor\.com$
 (^|\.)alexandria\.marfeelcdn\.com$
 (^|\.)alhistoriousg\.info$
 (^|\.)alicmayuns\.com$
@@ -2795,6 +2802,7 @@
 (^|\.)ashow\.pcpop\.com$
 (^|\.)asir\.vip$
 (^|\.)askaspalb\.online$
+(^|\.)askbegrag\.com$
 (^|\.)aspartbib\.site$
 (^|\.)assigned\.cn$
 (^|\.)assume8\.com$
@@ -3143,6 +3151,7 @@
 (^|\.)bl0uxepb4o\.com$
 (^|\.)bla01\.com$
 (^|\.)blaaaa12\.googlecode\.com$
+(^|\.)blablablaaa\.xyz$
 (^|\.)blfyquz\.cn$
 (^|\.)blip\.bizrate\.com$
 (^|\.)blissfulonline\.com$
@@ -3173,6 +3182,7 @@
 (^|\.)bobotune\.com$
 (^|\.)bodapet\.com$
 (^|\.)boerilav\.com$
+(^|\.)boffoadsfeeds\.com$
 (^|\.)bohuaqiche\.com$
 (^|\.)boiceta\.com$
 (^|\.)bokanedu\.net$
@@ -3671,6 +3681,7 @@
 (^|\.)compteur\.websiteout\.net$
 (^|\.)confirm-referer\.glrsales\.com$
 (^|\.)congregorysun\.site$
+(^|\.)conjeller-chikemon\.com$
 (^|\.)connect\.summit\.co\.uk$
 (^|\.)consent\.api\.osano\.com$
 (^|\.)consent\.inm\.ie$
@@ -4226,6 +4237,7 @@
 (^|\.)dudm\.qingsj\.cn$
 (^|\.)dugbvb\.com$
 (^|\.)duhochid\.net$
+(^|\.)dumbpop\.com$
 (^|\.)duobaoqj\.com$
 (^|\.)duoduo\.icu$
 (^|\.)duoqumanhua\.com$
@@ -4337,6 +4349,7 @@
 (^|\.)earlinggea\.info$
 (^|\.)earnbigo\.com$
 (^|\.)earsawclearnph\.site$
+(^|\.)eb13489b89db\.com$
 (^|\.)ebay\.northernhost\.com$
 (^|\.)ebp\.renren\.com$
 (^|\.)echoazou\.com$
@@ -4354,6 +4367,7 @@
 (^|\.)edncui\.net$
 (^|\.)edo5\.com$
 (^|\.)edoutoam\.net$
+(^|\.)edspicuousind\.site$
 (^|\.)edumsys\.com$
 (^|\.)eduzzjy\.com$
 (^|\.)edvforeveretest\.info$
@@ -4389,6 +4403,7 @@
 (^|\.)eleasuredfas\.info$
 (^|\.)elivescousingcr\.info$
 (^|\.)ellorschairwaydis\.site$
+(^|\.)elmbagask\.com$
 (^|\.)elmenor\.xyz$
 (^|\.)eloer\.cn$
 (^|\.)elr\.sfr\.fr$
@@ -4679,6 +4694,7 @@
 (^|\.)fm6w\.com$
 (^|\.)fninin\.cn$
 (^|\.)fnkjj\.com$
+(^|\.)fnx2n3rqbuw7\.com$
 (^|\.)fnxmyx\.cn$
 (^|\.)focuscat\.com$
 (^|\.)focusprolight\.com$
@@ -5338,6 +5354,7 @@
 (^|\.)hldwmly\.com$
 (^|\.)hlhulu\.com$
 (^|\.)hljhufengling\.cn$
+(^|\.)hljyjm\.cn$
 (^|\.)hmhqp\.com$
 (^|\.)hmnjf\.com$
 (^|\.)hmp33\.com$
@@ -6127,6 +6144,7 @@
 (^|\.)laurel\.macrovision\.com$
 (^|\.)laurel\.rovicorp\.com$
 (^|\.)lawumi\.cn$
+(^|\.)laygunwow\.com$
 (^|\.)layshyjar\.com$
 (^|\.)layyi\.com$
 (^|\.)lbaij\.com$
@@ -6353,6 +6371,7 @@
 (^|\.)loveconer\.com$
 (^|\.)lovestyl\.com$
 (^|\.)lovexia\.top$
+(^|\.)loxbeelid\.com$
 (^|\.)loxodo-analytics\.ext\.nile\.works$
 (^|\.)lpaoz\.com$
 (^|\.)lpjxzs\.com$
@@ -7258,6 +7277,7 @@
 (^|\.)pics\.xgo-img\.com\.cn$
 (^|\.)picsinfog\.com$
 (^|\.)pieaa\.com$
+(^|\.)piginkdos\.com$
 (^|\.)piliangzhuce\.cn$
 (^|\.)pincidao\.cn$
 (^|\.)ping-dot-acp-magento\.appspot\.com$
@@ -7369,6 +7389,7 @@
 (^|\.)pompazilla\.com$
 (^|\.)pool\.etn\.spacepools\.org$
 (^|\.)popcain\.com$
+(^|\.)popcash\.net$
 (^|\.)popeng\.top$
 (^|\.)popuexo\.com$
 (^|\.)poratav\.com$
@@ -7885,6 +7906,7 @@
 (^|\.)sanitwealth\.com$
 (^|\.)sanjinma\.com$
 (^|\.)santrateduk\.site$
+(^|\.)sapelmyep\.com$
 (^|\.)sapsixysho\.pro$
 (^|\.)sarjor\.pw$
 (^|\.)sarydrinkletr\.site$
@@ -10120,6 +10142,7 @@
 (^|\.)ydlnt\.com$
 (^|\.)ydouu\.com$
 (^|\.)ydqzkj\.com$
+(^|\.)ydrinkletremem\.site$
 (^|\.)yeas\.yahoo\.co\.jp$
 (^|\.)yebadu\.com$
 (^|\.)yenlm\.com$

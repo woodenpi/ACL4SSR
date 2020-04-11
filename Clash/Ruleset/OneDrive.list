@@ -2,6 +2,8 @@
 # 数量：16条
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
@@ -14,5 +16,3 @@ DOMAIN-SUFFIX,skydrive.wns.windows.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
