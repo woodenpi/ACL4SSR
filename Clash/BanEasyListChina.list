@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-11 15:33:10
-# 数量：4990条
+# 更新：2020-04-12 17:54:43
+# 数量：4994条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,123456.asia
 DOMAIN-SUFFIX,12365chia.com
 DOMAIN-SUFFIX,12381236.com
 DOMAIN-SUFFIX,123hala.com
+DOMAIN-SUFFIX,125331.top
 DOMAIN-SUFFIX,12jf3.cn
 DOMAIN-SUFFIX,12rge.xyz
 DOMAIN-SUFFIX,12rng.cn
@@ -301,6 +302,7 @@ DOMAIN-SUFFIX,41msl.cn
 DOMAIN-SUFFIX,42rca.cn
 DOMAIN-SUFFIX,4480dy.net
 DOMAIN-SUFFIX,456juhd.com
+DOMAIN-SUFFIX,45xa.cn
 DOMAIN-SUFFIX,46cq.cn
 DOMAIN-SUFFIX,47dx0c.cn
 DOMAIN-SUFFIX,47n209.com
@@ -3670,6 +3672,7 @@ DOMAIN-SUFFIX,shidailw.com
 DOMAIN-SUFFIX,shiftrro.com
 DOMAIN-SUFFIX,shijiezhidao.com
 DOMAIN-SUFFIX,shili.downxia.com
+DOMAIN-SUFFIX,shjrwh.cn
 DOMAIN-SUFFIX,shjsxx.com
 DOMAIN-SUFFIX,shkywh.com
 DOMAIN-SUFFIX,shlovesea.com
@@ -4226,6 +4229,7 @@ DOMAIN-SUFFIX,wgnmp.com
 DOMAIN-SUFFIX,whafwl.com
 DOMAIN-SUFFIX,whfpbc.99.com.cn
 DOMAIN-SUFFIX,whhxnz.com
+DOMAIN-SUFFIX,whkwpzz.cn
 DOMAIN-SUFFIX,whpxy.com
 DOMAIN-SUFFIX,whrles.com
 DOMAIN-SUFFIX,whshangsha.com
