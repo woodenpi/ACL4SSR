@@ -10893,7 +10893,6 @@
 (^|\.)toutiaoimg\.com$
 (^|\.)toutiaopage\.com$
 (^|\.)wukong\.com$
-(^|\.)yximgs\.com$
 (^|\.)zijieimg\.com$
 (^|\.)zjbyte\.com$
 (^|\.)zjcdn\.com$
@@ -11014,6 +11013,10 @@
 (^|\.)iciba\.com$
 (^|\.)ksosoft\.com$
 (^|\.)ksyun\.com$
+
+# Kuaishou 快手
+(^|\.)kuaishou\.com$
+(^|\.)yximgs\.com$
 
 # Meitu
 (^|\.)meitu\.com$
