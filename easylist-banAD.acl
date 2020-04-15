@@ -1,6 +1,6 @@
 #**********************************************************************
-# 04.11
-# 2020年4月11日15:27:25
+# 04.15
+# 2020年4月15日21:18:34
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9200条
+# 数量：9206条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1930,11 +1930,13 @@
 (^|\.)5pub\.com$
 (^|\.)5q80n\.cn$
 (^|\.)5rxk\.cn$
+(^|\.)5t4o\.cn$
 (^|\.)5tbiec\.cn$
 (^|\.)5x0f\.cn$
 (^|\.)5y9nfpes\.52pk\.com$
 (^|\.)5yv2e\.cn$
 (^|\.)5yw4n\.cn$
+(^|\.)5zi2\.top$
 (^|\.)605296\.com$
 (^|\.)60608787\.com$
 (^|\.)606w\.cn$
@@ -5084,6 +5086,7 @@
 (^|\.)gongfanglong\.cn$
 (^|\.)gontent\.steamplay\.me$
 (^|\.)goodgz\.cn$
+(^|\.)goodwold\.top$
 (^|\.)google-analytics\.com/batch$
 (^|\.)google-analytics\.com/internal/collect$
 (^|\.)google-analytics\.com/r/collect$
@@ -8511,6 +8514,7 @@
 (^|\.)stats\.eyeviewdigital\.com$
 (^|\.)stats\.fd\.nl$
 (^|\.)stats\.fittkaumaass\.de$
+(^|\.)stats\.fomo\.com$
 (^|\.)stats\.frankfurterneuepresse\.de$
 (^|\.)stats\.fs\.com$
 (^|\.)stats\.geegain\.com$
@@ -10098,6 +10102,7 @@
 (^|\.)xn--2qux23c9ziyrq\.icu$
 (^|\.)xn--2qux23confgml\.club$
 (^|\.)xn--2quz8f01ak10c\.shop$
+(^|\.)xn--czrshy5v7kb\.cc$
 (^|\.)xn--fjqz50cv5q3so\.ltd$
 (^|\.)xn--fjqz50cv5q3so\.online$
 (^|\.)xn--i6qs37am6iwyqffc\.com$
@@ -10531,6 +10536,7 @@
 (^|\.)zi63m\.cn$
 (^|\.)ziig\.com\.cn$
 (^|\.)zilzolachi\.com$
+(^|\.)zimingdh\.com$
 (^|\.)zinlar\.pw$
 (^|\.)zinovila\.com$
 (^|\.)zion\.api\.cnn\.io$
@@ -10727,7 +10733,6 @@
 
 # MyList
 (^|\.)423down\.com$
-(^|\.)bitwarden\.com$
 (^|\.)chaipip\.com$
 (^|\.)hrtsea\.com$
 (^|\.)laomo\.me$
@@ -10867,18 +10872,31 @@
 
 # ByteDance
 (^|\.)bytedance\.com$
+(^|\.)bytedance\.net$
+(^|\.)bytedns\.net$
+(^|\.)byteimg\.com$
 (^|\.)feiliao\.com$
 (^|\.)gifshow\.com$
 (^|\.)huoshan\.com$
 (^|\.)iesdouyin\.com$
 (^|\.)ixigua\.com$
-(^|\.)kaishou\.com$
 (^|\.)kspkg\.com$
 (^|\.)pstatp\.com$
 (^|\.)snssdk\.com$
 (^|\.)toutiao\.com$
+(^|\.)toutiao13\.com$
 (^|\.)toutiaocdn\.com$
+(^|\.)toutiaocdn\.net$
+(^|\.)toutiaocloud\.com$
+(^|\.)toutiaohao\.com$
+(^|\.)toutiaohao\.net$
+(^|\.)toutiaoimg\.com$
+(^|\.)toutiaopage\.com$
+(^|\.)wukong\.com$
 (^|\.)yximgs\.com$
+(^|\.)zijieimg\.com$
+(^|\.)zjbyte\.com$
+(^|\.)zjcdn\.com$
 
 # CCTV
 (^|\.)cctv\.com$
