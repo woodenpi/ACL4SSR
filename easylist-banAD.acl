@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9222条
+# 数量：9225条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2256,6 +2256,7 @@
 (^|\.)abgligarchan\.com$
 (^|\.)abie10\.top$
 (^|\.)abie11\.top$
+(^|\.)abie25\.top$
 (^|\.)abie9\.top$
 (^|\.)abroadlynijiz\.site$
 (^|\.)abrsamar\.com$
@@ -6056,6 +6057,7 @@
 (^|\.)khufaw2\.com$
 (^|\.)khuoy\.com$
 (^|\.)kicnse\.com$
+(^|\.)kikoucuy\.net$
 (^|\.)kiks\.auto\.ru$
 (^|\.)kilin\.xyz$
 (^|\.)kilomansa\.com$
@@ -7412,6 +7414,7 @@
 (^|\.)pixel\.newscgp\.com$
 (^|\.)pixel\.newscred\.com$
 (^|\.)pixel\.newsdiscover\.com\.au$
+(^|\.)pixel\.parsely\.com$
 (^|\.)pixel\.pcworld\.com$
 (^|\.)pixel\.propublica\.org$
 (^|\.)pixel\.prosieben\.de$
