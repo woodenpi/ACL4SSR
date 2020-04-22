@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9262条
+# 数量：9275条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1855,6 +1855,7 @@
 (^|\.)456c11816f\.com$
 (^|\.)456juhd\.com$
 (^|\.)459517eb349739b\.com$
+(^|\.)45le\.cn$
 (^|\.)45xa\.cn$
 (^|\.)46cq\.cn$
 (^|\.)47dx0c\.cn$
@@ -2260,6 +2261,7 @@
 (^|\.)abgligarchan\.com$
 (^|\.)abie10\.top$
 (^|\.)abie11\.top$
+(^|\.)abie12\.top$
 (^|\.)abie25\.top$
 (^|\.)abie9\.top$
 (^|\.)abroadlynijiz\.site$
@@ -2787,6 +2789,7 @@
 (^|\.)apxyz\.com$
 (^|\.)aqgyju\.cn$
 (^|\.)aquarius8\.cn$
+(^|\.)aqugame\.com$
 (^|\.)ar\.i-run\.fr$
 (^|\.)arana\.pw$
 (^|\.)archrug\.com$
@@ -2931,6 +2934,7 @@
 (^|\.)b7nkd\.cn$
 (^|\.)b7sw62\.pingshu8\.xyz$
 (^|\.)b9377h\.com$
+(^|\.)b96bcea4\.cc$
 (^|\.)b99u\.top$
 (^|\.)ba138901a1dd4534b2d0\.com$
 (^|\.)bab\.frb\.io$
@@ -4948,6 +4952,7 @@
 (^|\.)gdskywings\.com$
 (^|\.)gdsqwy\.org$
 (^|\.)gdunt\.com$
+(^|\.)gdyjs\.com$
 (^|\.)ge95\.com$
 (^|\.)gebadu\.com$
 (^|\.)gebralefukim\.site$
@@ -5150,6 +5155,7 @@
 (^|\.)grexoacu\.com$
 (^|\.)gringrin\.cn$
 (^|\.)grjs02\.com$
+(^|\.)grjs06\.com$
 (^|\.)groackam\.com$
 (^|\.)grtnahd\.cn$
 (^|\.)grubsoan\.com$
@@ -5258,6 +5264,7 @@
 (^|\.)hanju18\.net$
 (^|\.)hanmiyong\.com$
 (^|\.)hanqidq\.com$
+(^|\.)hanqingstudio\.com$
 (^|\.)hao\.315hyw\.com$
 (^|\.)hao\.360hyzj\.com$
 (^|\.)hao123rt\.com$
@@ -5278,6 +5285,7 @@
 (^|\.)harvester\.ext\.square-enix-europe\.com$
 (^|\.)harvester\.hbpl\.co\.uk$
 (^|\.)hascosafety\.com$
+(^|\.)hatbiz\.cn$
 (^|\.)hawbfa\.com$
 (^|\.)hawk\.pcgamer\.com$
 (^|\.)hawkeye-data-production\.sciencemag\.org\.s3-website-us-east-1\.amazonaws\.com$
@@ -5923,7 +5931,6 @@
 (^|\.)js\.bju888\.com$
 (^|\.)js\.bxwns\.com$
 (^|\.)js\.duotegame\.com$
-(^|\.)js\.gdyjs\.com$
 (^|\.)js\.hkslg520\.com$
 (^|\.)js\.jianbihuadq\.com$
 (^|\.)js\.kt250\.com$
@@ -6135,6 +6142,7 @@
 (^|\.)koukou7\.com$
 (^|\.)koutobey\.net$
 (^|\.)kouwku\.cn$
+(^|\.)kpfufdh\.cn$
 (^|\.)kpshx\.douguo\.com$
 (^|\.)kqiaq\.com$
 (^|\.)kqy1\.com$
@@ -7354,6 +7362,7 @@
 (^|\.)petsheying\.com$
 (^|\.)pf\.newegg\.com$
 (^|\.)pg-ad-b1\.nosdn\.127\.net$
+(^|\.)pg88cdn\.com$
 (^|\.)pgradualirelev\.info$
 (^|\.)pgt1\.voyage-prive\.es$
 (^|\.)phabsoun\.net$
@@ -8032,6 +8041,7 @@
 (^|\.)sbiim\.com$
 (^|\.)sbinx\.com$
 (^|\.)sboite\.cn$
+(^|\.)sbpb1\.chuiyue\.com$
 (^|\.)sbpb1\.qulishi\.com$
 (^|\.)sbroughhig\.info$
 (^|\.)sbrqp\.com$
@@ -9647,6 +9657,7 @@
 (^|\.)vgo\.vegaoo\.pt$
 (^|\.)vgo\.vegaooparty\.com$
 (^|\.)vgo\.vegaoopro\.com$
+(^|\.)vhhhkpf\.cn$
 (^|\.)vhpxa\.top$
 (^|\.)vhuay\.com$
 (^|\.)vi1\.souid\.com$
@@ -10153,6 +10164,7 @@
 (^|\.)xn--2qux23c9ziyrq\.icu$
 (^|\.)xn--2qux23confgml\.club$
 (^|\.)xn--2quz8f01ak10c\.shop$
+(^|\.)xn--4gqvdz18f\.xyz$
 (^|\.)xn--czrshy5v7kb\.cc$
 (^|\.)xn--fjqz50cv5q3so\.ltd$
 (^|\.)xn--fjqz50cv5q3so\.online$
@@ -10698,6 +10710,7 @@
 (^|\.)zzbaowen\.com$
 (^|\.)zzbya\.xyz$
 (^|\.)zzbyb\.xyz$
+(^|\.)zzbyc\.xyz$
 (^|\.)zzcgw\.cn$
 (^|\.)zzfanwo\.cn$
 (^|\.)zzhszj\.com$
