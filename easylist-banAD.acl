@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9275条
+# 数量：9287条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1852,6 +1852,7 @@
 (^|\.)4232f0badcf\.com$
 (^|\.)42rca\.cn$
 (^|\.)4480dy\.net$
+(^|\.)4481bff8825\.com$
 (^|\.)456c11816f\.com$
 (^|\.)456juhd\.com$
 (^|\.)459517eb349739b\.com$
@@ -1949,6 +1950,7 @@
 (^|\.)643226\.com$
 (^|\.)644446\.com$
 (^|\.)645yvcj6c8rn\.com$
+(^|\.)64ri\.cn$
 (^|\.)64si\.com$
 (^|\.)652748\.com$
 (^|\.)6612151\.cn$
@@ -2009,6 +2011,7 @@
 (^|\.)74vc\.cn$
 (^|\.)755431a59e7\.com$
 (^|\.)757g7g\.cn$
+(^|\.)7651d44da06c\.com$
 (^|\.)766ba\.net$
 (^|\.)76e\.org$
 (^|\.)76xs\.com$
@@ -2236,6 +2239,7 @@
 (^|\.)aa\.ninze\.com$
 (^|\.)aa\.wenxue6\.com$
 (^|\.)aa\.xiangxiangmf\.com$
+(^|\.)aaa\.tumanyi\.com$
 (^|\.)aaan\.xyz$
 (^|\.)aaaw\.xyz$
 (^|\.)aabbccddeeffgg\.cn$
@@ -4101,6 +4105,7 @@
 (^|\.)delivery\.porn\.com$
 (^|\.)delivery\.smashing\.services$
 (^|\.)delivery\.thebloggernetwork\.com$
+(^|\.)demannewcure\.site$
 (^|\.)dengfenzhang\.cn$
 (^|\.)denotatorum\.site$
 (^|\.)dependablewood\.com$
@@ -4690,6 +4695,7 @@
 (^|\.)fdzsmfyy\.com$
 (^|\.)febadu\.com$
 (^|\.)fecjf\.cn$
+(^|\.)fed21ff011\.com$
 (^|\.)fedsit\.com$
 (^|\.)feed\.r-tb\.com$
 (^|\.)feed777\.me$
@@ -5352,6 +5358,7 @@
 (^|\.)helpinfo\.cn$
 (^|\.)henanfs\.com$
 (^|\.)henanlinyu\.cn$
+(^|\.)henanlvyi\.com$
 (^|\.)henduoqian\.com$
 (^|\.)hengshui1\.com$
 (^|\.)heraldscotland-gb\.heraldscotland\.com$
@@ -7059,6 +7066,7 @@
 (^|\.)nozem\.tvmaze\.com$
 (^|\.)np176\.com$
 (^|\.)nq37f\.cn$
+(^|\.)nq93jx1vpq9r\.com$
 (^|\.)nqfwx\.cn$
 (^|\.)nqrkzcd7ixwr\.com$
 (^|\.)nr1234\.com$
@@ -7714,6 +7722,7 @@
 (^|\.)qmkdy\.com$
 (^|\.)qmlcdlo\.cn$
 (^|\.)qmname\.com$
+(^|\.)qmvezbh0l28w\.com$
 (^|\.)qn\.bejson\.com$
 (^|\.)qneit\.com$
 (^|\.)qnvih8\.cn$
@@ -7748,7 +7757,6 @@
 (^|\.)qubitanalytics\.appspot\.com$
 (^|\.)qucaigg\.com$
 (^|\.)queene\.cn$
-(^|\.)quiz\.stroeermediabrands\.de$
 (^|\.)qujishu\.com$
 (^|\.)quldu\.com$
 (^|\.)quw18\.com$
@@ -9049,7 +9057,6 @@
 (^|\.)tl875f\.cn$
 (^|\.)tlp5\.mimale\.com$
 (^|\.)tm-offers\.gamingadult\.com$
-(^|\.)tm\.jsuol\.com\.br$
 (^|\.)tm\.tradetracker\.net$
 (^|\.)tm\.uol\.com\.br$
 (^|\.)tm\.vendemore\.com$
@@ -9698,6 +9705,7 @@
 (^|\.)vmiua\.com$
 (^|\.)vmjjzk\.cn$
 (^|\.)vmstats\.varrando\.com$
+(^|\.)vn6e8w2w92\.com$
 (^|\.)vnanf\.com$
 (^|\.)vnf4\.belleetbio\.com$
 (^|\.)vnl1\.voyage-prive\.nl$
@@ -9763,6 +9771,7 @@
 (^|\.)wal\.wolfram\.com$
 (^|\.)wall\.vgr\.com$
 (^|\.)wallpapersfacts\.com$
+(^|\.)wandara113\.xyz$
 (^|\.)wanfcc\.com$
 (^|\.)wanfukang\.cc$
 (^|\.)wangdaizao\.com$
@@ -9859,6 +9868,7 @@
 (^|\.)wenzhougy\.cn$
 (^|\.)werpig\.com$
 (^|\.)wervp\.com$
+(^|\.)westerdayeol\.site$
 (^|\.)wew\.dushiwenxue\.net$
 (^|\.)wf\.taboola\.com$
 (^|\.)wf321\.com$
@@ -9944,6 +9954,7 @@
 (^|\.)woovooza\.net$
 (^|\.)worcesternews-gb\.worcesternews\.co\.uk$
 (^|\.)wordc\.ga$
+(^|\.)wordshipopa\.club$
 (^|\.)woredi\.com$
 (^|\.)workbizs\.com$
 (^|\.)worldmapd\.online$
@@ -10169,6 +10180,7 @@
 (^|\.)xn--fjqz50cv5q3so\.ltd$
 (^|\.)xn--fjqz50cv5q3so\.online$
 (^|\.)xn--i6qs37am6iwyqffc\.com$
+(^|\.)xn--i7qt52bvsr0u0a\.com$
 (^|\.)xn--mtso8sj6menhyil\.online$
 (^|\.)xn--mtsr39cnql\.video$
 (^|\.)xn--tst552fo5s\.xyz$
