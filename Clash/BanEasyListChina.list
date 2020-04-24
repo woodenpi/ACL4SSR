@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-23 22:30:28
-# 数量：5040条
+# 更新：2020-04-24 22:08:59
+# 数量：5045条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -927,6 +927,7 @@ DOMAIN-SUFFIX,bd1.365qilu.com
 DOMAIN-SUFFIX,bd1.99danji.com
 DOMAIN-SUFFIX,bd1.dopa.com
 DOMAIN-SUFFIX,bd1.flfgw.cn
+DOMAIN-SUFFIX,bd1.it028.net.cn
 DOMAIN-SUFFIX,bd1.jinbaozy.com
 DOMAIN-SUFFIX,bd1.ningboseo0574.com
 DOMAIN-SUFFIX,bd1.pipaw.com
@@ -1016,6 +1017,7 @@ DOMAIN-SUFFIX,bjgtsh.com
 DOMAIN-SUFFIX,bjhengdiao.com
 DOMAIN-SUFFIX,bjhuhangjy.com
 DOMAIN-SUFFIX,bjqftcty.com
+DOMAIN-SUFFIX,bjtengda.cn
 DOMAIN-SUFFIX,bjtrld.com
 DOMAIN-SUFFIX,bjwwfx001.org.cn
 DOMAIN-SUFFIX,bjygfd.com
@@ -3248,6 +3250,7 @@ DOMAIN-SUFFIX,oikxlcv.wang
 DOMAIN-SUFFIX,oir85.cn
 DOMAIN-SUFFIX,oiwjcsh001.top
 DOMAIN-SUFFIX,oiwjcsh010.top
+DOMAIN-SUFFIX,oiwjcsh011.top
 DOMAIN-SUFFIX,ojues.com
 DOMAIN-SUFFIX,ok.432kkk.com
 DOMAIN-SUFFIX,okkkk.com
@@ -3852,6 +3855,7 @@ DOMAIN-SUFFIX,sxdyrq.com
 DOMAIN-SUFFIX,sxjkc.cn
 DOMAIN-SUFFIX,sxjxhg.com
 DOMAIN-SUFFIX,sxlczj.cn
+DOMAIN-SUFFIX,sxljldh.top
 DOMAIN-SUFFIX,sxmdxy.com
 DOMAIN-SUFFIX,sxmutan.com
 DOMAIN-SUFFIX,sxtyhl.top
@@ -4052,6 +4056,7 @@ DOMAIN-SUFFIX,u2c8.cn
 DOMAIN-SUFFIX,u372q.cn
 DOMAIN-SUFFIX,u7qy3e.cn
 DOMAIN-SUFFIX,uadsaa.com
+DOMAIN-SUFFIX,uauwkfk.cn
 DOMAIN-SUFFIX,ub1.job592.com
 DOMAIN-SUFFIX,ubaii.com
 DOMAIN-SUFFIX,ubalh.com
