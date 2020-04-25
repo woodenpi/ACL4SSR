@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-24 22:09:07
-# 数量：2553条
+# 更新：2020-04-25 20:02:27
+# 数量：2556条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -555,6 +555,7 @@ DOMAIN-SUFFIX,cookies.reedbusiness.nl
 DOMAIN-SUFFIX,cookietracker.cloudapp.net
 DOMAIN-SUFFIX,cookiex.ngd.yahoo.com
 DOMAIN-SUFFIX,coolertracks.emailroi.com
+DOMAIN-SUFFIX,core.unit-sense.net
 DOMAIN-SUFFIX,count.asnetworks.de
 DOMAIN-SUFFIX,count.carrierzone.com
 DOMAIN-SUFFIX,count.channeladvisor.com
@@ -1584,6 +1585,7 @@ DOMAIN-SUFFIX,sa.sky.it
 DOMAIN-SUFFIX,sa.squareup.com
 DOMAIN-SUFFIX,sa.tf1.fr
 DOMAIN-SUFFIX,sa135.macworld.co.uk
+DOMAIN-SUFFIX,sa135.wsbtv.com
 DOMAIN-SUFFIX,sal.isanook.com
 DOMAIN-SUFFIX,sana.newsinc.com.s3.amazonaws.com
 DOMAIN-SUFFIX,sat.sanoma.fi
@@ -2086,6 +2088,7 @@ DOMAIN-SUFFIX,tf.360.cn
 DOMAIN-SUFFIX,theargus-gb.theargus.co.uk
 DOMAIN-SUFFIX,thenational-gb.thenational.scot
 DOMAIN-SUFFIX,thetradedesk-tags.s3.amazonaws.com
+DOMAIN-SUFFIX,tim.nextinpact.com
 DOMAIN-SUFFIX,timeslogtn.timesnow.tv
 DOMAIN-SUFFIX,timestrends.indiatimes.com
 DOMAIN-SUFFIX,timestrends.timesnow.tv
