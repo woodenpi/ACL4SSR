@@ -1316,6 +1316,7 @@
 (^|\.)tapjoy\.com$
 (^|\.)tapjoyads\.com$
 (^|\.)trafficjunky\.com$
+(^|\.)trafficjunky\.net$
 (^|\.)tribalfusion\.com$
 (^|\.)turn\.com$
 (^|\.)vidoomy\.com$
@@ -1519,7 +1520,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9336条
+# 数量：9435条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1546,6 +1547,7 @@
 (^|\.)0330vsdgdwer\.xyz$
 (^|\.)0351dvd\.cn$
 (^|\.)0377shujuhuifu\.top$
+(^|\.)0420zvnmljgfdsa\.xyz$
 (^|\.)0451106\.com$
 (^|\.)04zl\.cn$
 (^|\.)0516bm\.com$
@@ -1586,6 +1588,7 @@
 (^|\.)0qkc\.cn$
 (^|\.)0s9dxlr07huu\.com$
 (^|\.)0sbm\.consobaby\.co\.uk$
+(^|\.)0sywjs4r1x\.com$
 (^|\.)0uk9e\.cn$
 (^|\.)0x013d\.website$
 (^|\.)0x01e7\.website$
@@ -1679,6 +1682,7 @@
 (^|\.)1314sss\.top$
 (^|\.)138138138\.top$
 (^|\.)138lm\.com$
+(^|\.)13wn\.com$
 (^|\.)13wnjs\.com$
 (^|\.)1494\.top$
 (^|\.)14nuzznszbdp\.com$
@@ -1734,6 +1738,7 @@
 (^|\.)2016\.bkill\.net$
 (^|\.)2018haoyunlai\.com$
 (^|\.)2048hd\.space$
+(^|\.)2091995300d7\.com$
 (^|\.)21\.cizhibaogao\.org$
 (^|\.)21\.fh21static\.com$
 (^|\.)21\.zhaozongjie\.com$
@@ -1758,11 +1763,13 @@
 (^|\.)265958\.com$
 (^|\.)268mob\.cn$
 (^|\.)272xb\.com$
+(^|\.)273920d845b\.com$
 (^|\.)27f35\.cn$
 (^|\.)280dp\.com$
 (^|\.)282l1\.cn$
 (^|\.)283\.laobanfa\.com$
 (^|\.)28487\.net$
+(^|\.)286b656e86a\.com$
 (^|\.)28acglz\.com$
 (^|\.)28mcw1\.cn$
 (^|\.)293870\.com$
@@ -1807,12 +1814,14 @@
 (^|\.)338336\.com$
 (^|\.)33shangyou\.com$
 (^|\.)3400\.org$
+(^|\.)341073be6e9db7d2\.com$
 (^|\.)360640\.com$
 (^|\.)360baidus\.com$
 (^|\.)360safego\.com$
 (^|\.)360shopping\.com\.cn$
 (^|\.)360zuowen\.net$
 (^|\.)361315\.cc$
+(^|\.)363f6edf73\.com$
 (^|\.)365bibi\.com$
 (^|\.)365che\.cc$
 (^|\.)365safego\.com$
@@ -1844,6 +1853,7 @@
 (^|\.)3vn52l\.cn$
 (^|\.)3wdf4\.xyz$
 (^|\.)3xx\.vip$
+(^|\.)3y0h\.cn$
 (^|\.)3y6c\.cn$
 (^|\.)3ygww\.com$
 (^|\.)4006825178\.com$
@@ -1875,6 +1885,7 @@
 (^|\.)4t6u1amm3t3n\.com$
 (^|\.)4x9te\.cn$
 (^|\.)4z5o27\.cn$
+(^|\.)508ec56533e3937e\.com$
 (^|\.)50zera\.com$
 (^|\.)5125129\.com$
 (^|\.)5151gj\.com$
@@ -1898,6 +1909,7 @@
 (^|\.)51xvc\.cn$
 (^|\.)5207470\.com$
 (^|\.)520meirenyu\.com$
+(^|\.)523c579923fd35aa\.com$
 (^|\.)5269120\.com$
 (^|\.)52homie\.cn$
 (^|\.)52kmk\.com$
@@ -1921,6 +1933,7 @@
 (^|\.)59gt\.cn$
 (^|\.)5a8p12\.cn$
 (^|\.)5bd5e3203751\.com$
+(^|\.)5c577fc74618431b\.com$
 (^|\.)5dian\.org$
 (^|\.)5dydk\.com$
 (^|\.)5eln\.cn$
@@ -1976,7 +1989,6 @@
 (^|\.)69lm\.com\.cn$
 (^|\.)69u0t\.cn$
 (^|\.)69yll\.cn$
-(^|\.)6avz\.com$
 (^|\.)6c4t5\.cn$
 (^|\.)6cc8cc\.xyz$
 (^|\.)6d20d0bdc6313c2cf690\.com$
@@ -1985,6 +1997,7 @@
 (^|\.)6dvip\.com$
 (^|\.)6e1167fc12a\.com$
 (^|\.)6ed0a6630b\.com$
+(^|\.)6f2bdffd6587d\.com$
 (^|\.)6fai2\.cn$
 (^|\.)6huu\.com$
 (^|\.)6l1967\.cn$
@@ -2049,6 +2062,7 @@
 (^|\.)810251\.com$
 (^|\.)8131\.qizhihaotian\.cn$
 (^|\.)813690\.top$
+(^|\.)815e8fa24ebb8686\.com$
 (^|\.)815ff\.com$
 (^|\.)81c\.cn$
 (^|\.)81ngn1\.cn$
@@ -2061,6 +2075,7 @@
 (^|\.)85tgw\.com$
 (^|\.)85wa\.cn$
 (^|\.)860010\.com$
+(^|\.)86cb1dcb13ba5a1a\.com$
 (^|\.)87gw0fl0rc11\.com$
 (^|\.)88-baidu\.com$
 (^|\.)8800271\.com\.cn$
@@ -2095,6 +2110,7 @@
 (^|\.)8ue4\.xyz$
 (^|\.)8v61j\.cn$
 (^|\.)8v7wg\.com$
+(^|\.)8xkr\.xyz$
 (^|\.)904ad\.com$
 (^|\.)90ad550f42\.com$
 (^|\.)910weixin\.com$
@@ -2246,6 +2262,7 @@
 (^|\.)aaaw\.xyz$
 (^|\.)aabbccddeeffgg\.cn$
 (^|\.)aabku\.cn$
+(^|\.)aadajnnn133\.xyz$
 (^|\.)aauisg64017\.cn$
 (^|\.)aax-us-iad\.amazon\.com$
 (^|\.)aazcio\.cn$
@@ -2261,6 +2278,7 @@
 (^|\.)abckzo\.cn$
 (^|\.)abctcqq\.top$
 (^|\.)abds\.pingpingw\.com$
+(^|\.)abeaddc65282d465\.com$
 (^|\.)abeagle-public\.buzzfeed\.com$
 (^|\.)abeij\.com$
 (^|\.)abfirst\.cn$
@@ -2413,6 +2431,7 @@
 (^|\.)adt\.xdrig\.com$
 (^|\.)adtm\.chip\.de$
 (^|\.)aduic\.com$
+(^|\.)adultterritory\.net$
 (^|\.)adv-sv-show\.focus\.cn$
 (^|\.)adv-sv-stat\.focus\.cn$
 (^|\.)adv\.drtuber\.com$
@@ -2556,6 +2575,7 @@
 (^|\.)alryo\.cn$
 (^|\.)als-svc\.nytimes\.com$
 (^|\.)altavista\.ovh$
+(^|\.)alzwa133\.xyz$
 (^|\.)am\.szhome\.com$
 (^|\.)amazingfunnvideos\.com$
 (^|\.)amazingmagics\.com$
@@ -2586,6 +2606,7 @@
 (^|\.)analytics\.30m\.com$
 (^|\.)analytics\.aasaam\.com$
 (^|\.)analytics\.adfreetime\.com$
+(^|\.)analytics\.agoda\.com$
 (^|\.)analytics\.allovoisins\.com$
 (^|\.)analytics\.amakings\.com$
 (^|\.)analytics\.anvato\.net$
@@ -2769,6 +2790,7 @@
 (^|\.)anreson\.net$
 (^|\.)antfindicater\.site$
 (^|\.)anti-bot\.baidu\.com$
+(^|\.)antiadblocksystems\.com$
 (^|\.)anybagant\.club$
 (^|\.)anycadark\.site$
 (^|\.)anyysz\.com$
@@ -2792,6 +2814,7 @@
 (^|\.)apple\.www\.letv\.com$
 (^|\.)applequan\.com$
 (^|\.)appnext-a\.akamaihd\.net$
+(^|\.)appropolyfunt\.site$
 (^|\.)aptashant\.club$
 (^|\.)apxyz\.com$
 (^|\.)aqgyju\.cn$
@@ -2873,6 +2896,7 @@
 (^|\.)aughedbannel\.site$
 (^|\.)augnuxun\.net$
 (^|\.)aujaujoa\.net$
+(^|\.)aukalerim\.com$
 (^|\.)aurdeert\.net$
 (^|\.)aurtooks\.com$
 (^|\.)auspiciousvp\.com$
@@ -2936,6 +2960,7 @@
 (^|\.)b25ku\.cn$
 (^|\.)b4215c8f2c1\.com$
 (^|\.)b460e308b59\.com$
+(^|\.)b4q982rbqdsw\.com$
 (^|\.)b54ah\.cn$
 (^|\.)b588866\.com$
 (^|\.)b7nkd\.cn$
@@ -3032,6 +3057,7 @@
 (^|\.)bd1\.szhk\.com$
 (^|\.)bd1\.xiby\.cn$
 (^|\.)bd1\.yidu\.cc$
+(^|\.)bd100\.010lm\.com$
 (^|\.)bd11\.nipic\.com$
 (^|\.)bd3\.chuiyue\.com$
 (^|\.)bdad\.gaotie\.net$
@@ -3128,6 +3154,7 @@
 (^|\.)bench\.uc\.cn$
 (^|\.)bensezhiye\.com$
 (^|\.)bentengcn\.com$
+(^|\.)bento\.agoda\.com$
 (^|\.)berateveng\.ru$
 (^|\.)berfd\.xyz$
 (^|\.)bersmanatomic\.site$
@@ -3209,6 +3236,7 @@
 (^|\.)bmcm\.pw$
 (^|\.)bmfwwz\.top$
 (^|\.)bmgan\.com$
+(^|\.)bmkz57b79pxk\.com$
 (^|\.)bmnr\.pw$
 (^|\.)bmrg\.reflected\.net$
 (^|\.)bmst\.pw$
@@ -3340,6 +3368,8 @@
 (^|\.)c26e9ccd4e063b\.com$
 (^|\.)c3metrics\.medifast1\.com$
 (^|\.)c4dv\.copinesdevoyage\.com$
+(^|\.)c50021876c67fd14\.com$
+(^|\.)c5b39ff13b3259df\.com$
 (^|\.)c6\.friok\.com$
 (^|\.)c6z85\.cn$
 (^|\.)c74df06d52c9da686f17\.com$
@@ -3380,6 +3410,7 @@
 (^|\.)caredaily\.me$
 (^|\.)carl\.pubsvs\.com$
 (^|\.)carpenterrprp\.com$
+(^|\.)carpetusiko\.club$
 (^|\.)carutinv\.com$
 (^|\.)cas\.clickability\.com$
 (^|\.)casbanlly\.com$
@@ -3412,6 +3443,7 @@
 (^|\.)cconseent\.info$
 (^|\.)ccouv\.com$
 (^|\.)cct2\.o2online\.de$
+(^|\.)cctg\.cc$
 (^|\.)cctyly\.com$
 (^|\.)ccunf\.com$
 (^|\.)cd-best\.cn$
@@ -3424,6 +3456,7 @@
 (^|\.)cdlinli\.com$
 (^|\.)cdn-alliancegravity\.s3\.amazonaws\.com$
 (^|\.)cdn-analytics\.ladmedia\.fr$
+(^|\.)cdn\.rtclx\.com$
 (^|\.)cdn\.wuyou\.ca$
 (^|\.)cdn1\.pebx\.pl$
 (^|\.)cdn1\.tvzhe\.com$
@@ -3497,6 +3530,7 @@
 (^|\.)chengaib\.net$
 (^|\.)chengboke\.cn$
 (^|\.)chengdahdf\.cn$
+(^|\.)chenghangtech\.com$
 (^|\.)chengzhao95511\.com$
 (^|\.)chenxiangqian\.cn$
 (^|\.)chenyanjiao\.cn$
@@ -3535,6 +3569,7 @@
 (^|\.)chukalapopi\.com$
 (^|\.)chukalorqa\.com$
 (^|\.)churchasisou\.site$
+(^|\.)churchasisrev\.site$
 (^|\.)chushoushijian\.cn$
 (^|\.)chutangpu\.cn$
 (^|\.)chuzushijian\.cn$
@@ -3543,7 +3578,6 @@
 (^|\.)ciajingman\.com$
 (^|\.)cike666\.com$
 (^|\.)cindy17club\.com$
-(^|\.)cintent\.steamplay\.me$
 (^|\.)ciridola\.com$
 (^|\.)city009\.com$
 (^|\.)civitik\.com$
@@ -3666,6 +3700,7 @@
 (^|\.)cnt\.rate\.ru$
 (^|\.)cnt\.vivatube\.com$
 (^|\.)cnt2\.stroeerdp\.de$
+(^|\.)cntr\.lookmovie\.ag$
 (^|\.)cnxad\.net$
 (^|\.)cnxmyb\.cn$
 (^|\.)cnyibs\.com$
@@ -3809,6 +3844,7 @@
 (^|\.)counter\.rian\.ru$
 (^|\.)counter\.scribblelive\.com$
 (^|\.)counter\.search\.bg$
+(^|\.)counter\.sibnet\.ru$
 (^|\.)counter\.sina\.com\.cn$
 (^|\.)counter\.snackly\.co$
 (^|\.)counter\.sparklit\.com$
@@ -3975,6 +4011,7 @@
 (^|\.)d1skp\.cn$
 (^|\.)d303e3cdddb4ded4b6ff495a7b496ed5\.s3\.amazonaws\.com$
 (^|\.)d3nh49\.com$
+(^|\.)d4d48974197052ea\.com$
 (^|\.)d5a5a\.xyz$
 (^|\.)d6\.mobaders\.com$
 (^|\.)d663q\.cn$
@@ -3983,6 +4020,7 @@
 (^|\.)d93nzb\.cn$
 (^|\.)da\.netease\.com$
 (^|\.)da\.virginmedia\.com$
+(^|\.)daamjzrlon\.com$
 (^|\.)dachadu\.cn$
 (^|\.)dacoloment\.pro$
 (^|\.)dadawm\.cc$
@@ -4193,6 +4231,7 @@
 (^|\.)dlb1uotpjs6s\.com$
 (^|\.)dldsrs\.com$
 (^|\.)dleke\.com$
+(^|\.)dlfvgndsdfsn\.com$
 (^|\.)dlhygj\.com$
 (^|\.)dlkjgjmy\.com$
 (^|\.)dlnsjjyzvi1x\.com$
@@ -4301,6 +4340,7 @@
 (^|\.)dtrk\.slimcdn\.com$
 (^|\.)dtzysm\.com$
 (^|\.)du1\.bbdj\.com$
+(^|\.)dubkenduo\.com$
 (^|\.)duchoono\.com$
 (^|\.)dudm\.qingsj\.cn$
 (^|\.)dugbvb\.com$
@@ -4347,6 +4387,7 @@
 (^|\.)e-demx\.com$
 (^|\.)e-heater\.vip$
 (^|\.)e\.yycqc\.com$
+(^|\.)e2706c6e2b426f74\.com$
 (^|\.)e2ertt\.com$
 (^|\.)e647ob\.cn$
 (^|\.)e7001\.com$
@@ -4477,7 +4518,9 @@
 (^|\.)eldedtickered\.site$
 (^|\.)eleasuredfas\.info$
 (^|\.)electureencroo\.site$
+(^|\.)elfirkelk\.com$
 (^|\.)elivescousingcr\.info$
+(^|\.)elkbahtax\.com$
 (^|\.)ellorschairwaydis\.site$
 (^|\.)elmbagask\.com$
 (^|\.)elmenor\.xyz$
@@ -4499,6 +4542,7 @@
 (^|\.)encoursejaso\.site$
 (^|\.)engage-cdn\.schibsted\.media$
 (^|\.)engagefront\.theweathernetwork\.com$
+(^|\.)engppdoqrtivjd\.com$
 (^|\.)enjuk\.com$
 (^|\.)enjuw\.com$
 (^|\.)enlightenment\.secureshoppingbasket\.com$
@@ -4584,6 +4628,7 @@
 (^|\.)event\.api\.drift\.com$
 (^|\.)event\.dkb\.de$
 (^|\.)event\.getblue\.io$
+(^|\.)event\.notifier\.rakuten\.co\.jp$
 (^|\.)eventapi\.libring\.com$
 (^|\.)eventgateway\.soundcloud\.com$
 (^|\.)eventlog\.inspsearchapi\.com$
@@ -4649,6 +4694,7 @@
 (^|\.)f1\.zaojv\.com$
 (^|\.)f1190\.com$
 (^|\.)f1288404ece4\.com$
+(^|\.)f185cefa37b1806e\.com$
 (^|\.)f1tbit\.com$
 (^|\.)f2zd\.com$
 (^|\.)f40f89d54b8\.com$
@@ -4667,6 +4713,7 @@
 (^|\.)fadskiz\.com$
 (^|\.)fadslims\.com$
 (^|\.)fadsoks\.com$
+(^|\.)fadsokz\.com$
 (^|\.)fadspms\.com$
 (^|\.)fadspmz\.com$
 (^|\.)fagmomqua\.site$
@@ -4707,6 +4754,7 @@
 (^|\.)fcunq\.com$
 (^|\.)fd7c\.com$
 (^|\.)fdaoo\.com$
+(^|\.)fdbpnqh\.cn$
 (^|\.)fdoun\.com$
 (^|\.)fdzsmfyy\.com$
 (^|\.)febadu\.com$
@@ -4714,6 +4762,7 @@
 (^|\.)fed21ff011\.com$
 (^|\.)fedsit\.com$
 (^|\.)feed\.r-tb\.com$
+(^|\.)feed111\.com$
 (^|\.)feed777\.me$
 (^|\.)feedinburgew\.site$
 (^|\.)feeds\.videosz\.com$
@@ -4746,6 +4795,7 @@
 (^|\.)fgaon\.com$
 (^|\.)fgzba\.com$
 (^|\.)fhbv\.cn$
+(^|\.)fibpeeode\.site$
 (^|\.)fibusedie\.site$
 (^|\.)filament-stats\.herokuapp\.com$
 (^|\.)filmoljupci\.com$
@@ -4783,7 +4833,7 @@
 (^|\.)focusprolight\.com$
 (^|\.)foditgoz\.com$
 (^|\.)fog\.pixual\.co$
-(^|\.)fontent\.streamp1ay\.me$
+(^|\.)fontainsuny\.club$
 (^|\.)footprint\.anetwork\.ir$
 (^|\.)forcementsawe\.site$
 (^|\.)foreveryoung\.gz01\.bdysite\.com$
@@ -4814,6 +4864,7 @@
 (^|\.)frjxdv\.cn$
 (^|\.)frog\.wix\.com$
 (^|\.)front99\.com$
+(^|\.)fryawlauk\.com$
 (^|\.)fshet\.com$
 (^|\.)fsitel\.com$
 (^|\.)fsm\.lapresse\.ca$
@@ -4840,6 +4891,7 @@
 (^|\.)furmnas\.com$
 (^|\.)fuse\.forbes\.com$
 (^|\.)fusion\.bonniertidskrifter\.se$
+(^|\.)futckgpfbgzfn\.com$
 (^|\.)futengbao\.com\.cn$
 (^|\.)future-fie-assets\.co\.uk$
 (^|\.)future-price\.co\.uk$
@@ -4865,6 +4917,7 @@
 (^|\.)fyehare\.com$
 (^|\.)fyjyhm\.com$
 (^|\.)fytza\.cn$
+(^|\.)fz5akngy5o6r\.com$
 (^|\.)fzdfwy\.com$
 (^|\.)fzglqyy\.com$
 (^|\.)fzxrjx\.com$
@@ -4919,6 +4972,7 @@
 (^|\.)gadskis\.com$
 (^|\.)gadskiz\.com$
 (^|\.)gadslims\.com$
+(^|\.)gadsoks\.com$
 (^|\.)gadsokz\.com$
 (^|\.)gadwhy\.com$
 (^|\.)gagkf\.top$
@@ -5019,6 +5073,8 @@
 (^|\.)geoip\.boredpanda\.com$
 (^|\.)geoip\.cleveland\.com$
 (^|\.)geoip\.gulflive\.com$
+(^|\.)geoip\.hmageo\.com$
+(^|\.)geoip\.ifunny\.co$
 (^|\.)geoip\.inquirer\.net$
 (^|\.)geoip\.lehighvalleylive\.com$
 (^|\.)geoip\.masslive\.com$
@@ -5079,6 +5135,7 @@
 (^|\.)ghosttty\.cn$
 (^|\.)gigbyefly\.com$
 (^|\.)gilzana\.pw$
+(^|\.)ginfanleg\.club$
 (^|\.)giroud\.top$
 (^|\.)gitoku\.com$
 (^|\.)gj\.mmstat\.com$
@@ -5136,7 +5193,6 @@
 (^|\.)golokavi\.com$
 (^|\.)gongeeta\.net$
 (^|\.)gongfanglong\.cn$
-(^|\.)gontent\.steamplay\.me$
 (^|\.)goodgz\.cn$
 (^|\.)goodwold\.top$
 (^|\.)google-analytics\.com/batch$
@@ -5482,7 +5538,6 @@
 (^|\.)hongshikai\.com$
 (^|\.)hongtefm\.com$
 (^|\.)hongyangbg\.com$
-(^|\.)hontent\.steamplay\.me$
 (^|\.)hoosorie\.com$
 (^|\.)hop\.clickbank\.net$
 (^|\.)horedi\.com$
@@ -5657,6 +5712,7 @@
 (^|\.)il8r\.com$
 (^|\.)ilifecook\.com$
 (^|\.)ilinan\.xyz$
+(^|\.)ilinxi\.cc$
 (^|\.)ilovechenyuqian\.xyz$
 (^|\.)im\.aol\.de$
 (^|\.)im\.ov\.yahoo\.co\.jp$
@@ -5679,10 +5735,6 @@
 (^|\.)img50\.pingguolv\.com$
 (^|\.)img80\.net$
 (^|\.)imgadsame\.liba\.com$
-(^|\.)imgc\.sythe\.org$
-(^|\.)imgca\.sythe\.org$
-(^|\.)imgcac\.sythe\.org$
-(^|\.)imgcache\.sythe\.org$
 (^|\.)imgstat\.baidu\.com$
 (^|\.)imgtrack\.domainmarket\.com$
 (^|\.)imiek\.com$
@@ -5727,6 +5779,7 @@
 (^|\.)inswebt\.com$
 (^|\.)intellecthosting\.net$
 (^|\.)intelli\.ageuk\.org\.uk$
+(^|\.)intelligenceadx\.com$
 (^|\.)intent\.cbsi\.com$
 (^|\.)internerl\.com$
 (^|\.)intg\.snapchat\.com$
@@ -5772,6 +5825,7 @@
 (^|\.)iupot\.com$
 (^|\.)iurhxzmr\.ga\.gfycat\.com$
 (^|\.)iuuff\.com$
+(^|\.)ivhqsuhrqvhlke\.com$
 (^|\.)ivy\.pconline\.com\.cn$
 (^|\.)iwansf\.com$
 (^|\.)iyaos\.com$
@@ -6060,6 +6114,7 @@
 (^|\.)kanfaxing\.com$
 (^|\.)kanghuaixin\.cn$
 (^|\.)kanjiaqun\.cn$
+(^|\.)kantv\.pub$
 (^|\.)karma\.mdpcdn\.com$
 (^|\.)katerigordas\.pro$
 (^|\.)kaukoany\.net$
@@ -6295,6 +6350,7 @@
 (^|\.)lessite\.pro$
 (^|\.)let83\.cn$
 (^|\.)letaojuan68\.com$
+(^|\.)levenileheshe\.site$
 (^|\.)lexyhome\.com$
 (^|\.)leztc\.com$
 (^|\.)lfcepgb\.cn$
@@ -6338,6 +6394,7 @@
 (^|\.)liketube\.xyz$
 (^|\.)liktirov\.com$
 (^|\.)lilb2\.shutterstock\.com$
+(^|\.)lilithgame\.info$
 (^|\.)liliwoin\.top$
 (^|\.)lingdian98\.com$
 (^|\.)linghangshouji\.com$
@@ -6361,6 +6418,7 @@
 (^|\.)lisconcertain\.site$
 (^|\.)lishuanghao\.com$
 (^|\.)listenother\.com$
+(^|\.)listeraislatory\.site$
 (^|\.)literally-analytics\.appspot\.com$
 (^|\.)litlif\.net$
 (^|\.)littlementok\.site$
@@ -6477,6 +6535,7 @@
 (^|\.)lokspeedarma\.com$
 (^|\.)lolmp4\.com$
 (^|\.)lolvsdota\.cn$
+(^|\.)lomkgojdoeffl\.com$
 (^|\.)long88\.app$
 (^|\.)longkoupeanut\.cn$
 (^|\.)loobusir\.com$
@@ -6488,6 +6547,7 @@
 (^|\.)loveconer\.com$
 (^|\.)lovestyl\.com$
 (^|\.)lovexia\.top$
+(^|\.)lowtyroguer\.com$
 (^|\.)loxbeelid\.com$
 (^|\.)loxodo-analytics\.ext\.nile\.works$
 (^|\.)lpaoz\.com$
@@ -6556,6 +6616,7 @@
 (^|\.)lzmm8\.com$
 (^|\.)lzwla\.top$
 (^|\.)lzytt\.com$
+(^|\.)m-rtb\.com$
 (^|\.)m\.lolvsdota\.cn$
 (^|\.)m\.trb\.com$
 (^|\.)m0hcppadsnq8\.com$
@@ -6722,6 +6783,7 @@
 (^|\.)mewtenhah\.com$
 (^|\.)mfcvxw\.cn$
 (^|\.)mfio\.cf$
+(^|\.)mftmyrzoxtfx\.com$
 (^|\.)mg\.32r\.com$
 (^|\.)mg\.glwxw\.net$
 (^|\.)mgldzcls\.com$
@@ -6827,6 +6889,7 @@
 (^|\.)mob1ledev1ces\.com$
 (^|\.)mobbahjug\.com$
 (^|\.)mobiorg8\.com$
+(^|\.)mobreach\.com$
 (^|\.)moderningvigil\.pro$
 (^|\.)mofun\.ltd$
 (^|\.)moguozhi\.com$
@@ -6872,6 +6935,7 @@
 (^|\.)mqies\.com$
 (^|\.)mqs\.ioam\.de$
 (^|\.)mr087\.cn$
+(^|\.)mr2cnjuh34jb\.com$
 (^|\.)mr5aqoqlegsp\.com$
 (^|\.)mreod\.cn$
 (^|\.)mrksys\.com$
@@ -6897,6 +6961,7 @@
 (^|\.)mts-ws\.rueducommerce\.fr$
 (^|\.)mu722\.com$
 (^|\.)mubite\.cn$
+(^|\.)mugpothop\.com$
 (^|\.)mujiangdashi\.cn$
 (^|\.)mujilora\.com$
 (^|\.)mukkkoi\.cn$
@@ -6987,6 +7052,7 @@
 (^|\.)network\.business\.com$
 (^|\.)never\.ovh$
 (^|\.)new\.htcui\.com$
+(^|\.)newerannews\.com$
 (^|\.)newjulads\.com$
 (^|\.)newknowledge\.cn$
 (^|\.)news\.jiukang\.org$
@@ -7106,6 +7172,7 @@
 (^|\.)nsxtob\.cn$
 (^|\.)nterbx\.com$
 (^|\.)nthfds\.xyz$
+(^|\.)nthjiglet\.club$
 (^|\.)nthtcs\.com$
 (^|\.)ntpddq\.com$
 (^|\.)ntsartingaccura\.info$
@@ -7183,6 +7250,7 @@
 (^|\.)oiwjcsh001\.top$
 (^|\.)oiwjcsh010\.top$
 (^|\.)oiwjcsh011\.top$
+(^|\.)oiwjcsh012\.top$
 (^|\.)ojm4\.palladiumhotelgroup\.com$
 (^|\.)ojues\.com$
 (^|\.)ok\.432kkk\.com$
@@ -7275,13 +7343,16 @@
 (^|\.)oul78c\.cn$
 (^|\.)oulvtrip\.com$
 (^|\.)oumazg\.com$
+(^|\.)ouncialliberte\.site$
 (^|\.)ountapaveralle\.info$
 (^|\.)ousseventi\.info$
 (^|\.)outal\.origo\.hu$
+(^|\.)outsimfat\.site$
 (^|\.)ouzoadru\.net$
 (^|\.)ovementerter\.site$
 (^|\.)overlordtea\.cn$
 (^|\.)overnmentil\.site$
+(^|\.)overnmenty\.club$
 (^|\.)overribleintena\.info$
 (^|\.)oweverycanvas\.info$
 (^|\.)owusxlr\.cn$
@@ -7388,6 +7459,7 @@
 (^|\.)penxiangge\.com$
 (^|\.)perahbashmama\.com$
 (^|\.)perf\.dugout\.com$
+(^|\.)perfordpetre\.club$
 (^|\.)performanceonclick\.com$
 (^|\.)performanceplay\.co\.kr$
 (^|\.)performances\.bestofmedia\.com$
@@ -7572,6 +7644,7 @@
 (^|\.)pr\.blogflux\.com$
 (^|\.)pr00001\.com$
 (^|\.)pr33\.cn$
+(^|\.)practivelizar\.club$
 (^|\.)prazpf\.cn$
 (^|\.)prd-collector-anon\.playbuzz\.com$
 (^|\.)presearchity\.site$
@@ -7731,7 +7804,6 @@
 (^|\.)qilashou\.com$
 (^|\.)qilungroup\.cn$
 (^|\.)qinchugudao\.com$
-(^|\.)qingqu\.la$
 (^|\.)qingzhencai\.net$
 (^|\.)qinlinquan\.cn$
 (^|\.)qipskd\.cn$
@@ -7758,6 +7830,7 @@
 (^|\.)qn\.bejson\.com$
 (^|\.)qneit\.com$
 (^|\.)qnvih8\.cn$
+(^|\.)qnwjhpingotrmc\.com$
 (^|\.)qo26\.com$
 (^|\.)qoiusky\.com$
 (^|\.)qoredi\.com$
@@ -7836,6 +7909,7 @@
 (^|\.)rand\.com\.ru$
 (^|\.)rangeblessedness\.men$
 (^|\.)rapizoda\.com$
+(^|\.)rat\.rakuten\.co\.jp$
 (^|\.)ratkalol\.com$
 (^|\.)raupsica\.net$
 (^|\.)rbc\.magna\.ru$
@@ -7860,6 +7934,7 @@
 (^|\.)rdxhrd\.com$
 (^|\.)re\.taotaosou\.com$
 (^|\.)reachandrich\.antevenio\.com$
+(^|\.)readly-renterval\.icu$
 (^|\.)realsrv\.com$
 (^|\.)realtime-bid\.com$
 (^|\.)reasonalattracke\.info$
@@ -7886,6 +7961,7 @@
 (^|\.)releasurezesa\.site$
 (^|\.)reliancevalve\.com$
 (^|\.)rem-track\.bild\.de$
+(^|\.)remainttalenty\.site$
 (^|\.)remarypolike\.site$
 (^|\.)remotedu\.cn$
 (^|\.)rencai56\.com$
@@ -7901,6 +7977,7 @@
 (^|\.)reporting\.theonion\.com$
 (^|\.)reports\.pagesuite-professional\.co\.uk$
 (^|\.)represented\.cn$
+(^|\.)repruggob\.com$
 (^|\.)reqpostanza\.com$
 (^|\.)request\.issuu\.com$
 (^|\.)requested\.cn$
@@ -7962,6 +8039,8 @@
 (^|\.)rmcxw\.net$
 (^|\.)rmetop\.com$
 (^|\.)rmwdn\.com$
+(^|\.)rndrx0rqwkb8\.com$
+(^|\.)ro7s8wo57qnb\.com$
 (^|\.)roay\.cn$
 (^|\.)robjamguy\.club$
 (^|\.)robovoiz\.com$
@@ -8008,6 +8087,7 @@
 (^|\.)ruiyufangchan\.cn$
 (^|\.)rum\.conde\.io$
 (^|\.)rum\.marquardmedia\.hu$
+(^|\.)rum\.minutemediaservices\.com$
 (^|\.)rum\.nccgroup-webperf\.com$
 (^|\.)runiman\.com$
 (^|\.)runkao\.net$
@@ -8280,6 +8360,7 @@
 (^|\.)siterdm\.com$
 (^|\.)sitescout-video-cdn\.edgesuite\.net$
 (^|\.)sitetoway\.com$
+(^|\.)sitirkbit\.com$
 (^|\.)sixgen\.cn$
 (^|\.)sjaidu\.com$
 (^|\.)sjbaiduadv1\.redou\.com$
@@ -8847,6 +8928,7 @@
 (^|\.)t\.adlpo\.com$
 (^|\.)t\.allmodern\.com$
 (^|\.)t\.appsflyer\.com$
+(^|\.)t\.av\.st$
 (^|\.)t\.beopinion\.com$
 (^|\.)t\.bimvid\.com$
 (^|\.)t\.birchlane\.com$
@@ -9080,6 +9162,8 @@
 (^|\.)tiojk\.com$
 (^|\.)tionpronomyim\.info$
 (^|\.)tiontablyvern\.site$
+(^|\.)tithewtog\.com$
+(^|\.)titoaktop\.com$
 (^|\.)tiveacquisitsprett\.info$
 (^|\.)tiwom\.com$
 (^|\.)tj-cmys\.com$
@@ -9140,6 +9224,7 @@
 (^|\.)top267\.com$
 (^|\.)topbetfast\.com$
 (^|\.)topgreatxoffers\.com$
+(^|\.)torbudyum\.com$
 (^|\.)torimochi\.line-apps\.com$
 (^|\.)toruk\.tanx\.com$
 (^|\.)torytalenty\.site$
@@ -9588,6 +9673,7 @@
 (^|\.)union\.china\.com\.cn$
 (^|\.)union\.yihaodian\.com$
 (^|\.)unlomblam\.pro$
+(^|\.)unreshiramor\.com$
 (^|\.)untitled\.dwstatic\.com$
 (^|\.)untridrisa\.cf$
 (^|\.)uo12\.com$
@@ -9635,6 +9721,7 @@
 (^|\.)utility\.rogersmedia\.com$
 (^|\.)utorido\.com$
 (^|\.)utpenedwritted\.info$
+(^|\.)utq55kl9vyqv\.com$
 (^|\.)utrack\.hexun\.com$
 (^|\.)utstancecaricit\.info$
 (^|\.)uue2\.destinia\.ir$
@@ -9677,6 +9764,7 @@
 (^|\.)vbinu\.com$
 (^|\.)vbnm888\.com$
 (^|\.)vboo349\.com$
+(^|\.)vbrfwaf\.cn$
 (^|\.)vcaif\.com$
 (^|\.)vch\.voyage-prive\.ch$
 (^|\.)vchim\.com$
@@ -9812,6 +9900,7 @@
 (^|\.)wacucmiy\.net$
 (^|\.)wadsotch\.com$
 (^|\.)wagenlux\.cn$
+(^|\.)wagerjoint\.com$
 (^|\.)wagoapse\.com$
 (^|\.)wahamtou\.net$
 (^|\.)waihui518\.com$
@@ -9946,6 +10035,7 @@
 (^|\.)whsjg\.cn$
 (^|\.)whxhhjx\.com$
 (^|\.)whytoss\.com$
+(^|\.)wi3brxwr2b3v\.com$
 (^|\.)wibiya-actions\.conduit-data\.com$
 (^|\.)wibiya-june-new-log\.conduit-data\.com$
 (^|\.)widget\.crowdignite\.com$
@@ -9967,6 +10057,8 @@
 (^|\.)winvestern\.com\.cn$
 (^|\.)wisteria-js\.excite\.co\.jp$
 (^|\.)withad\.cn$
+(^|\.)wityamdog\.com$
+(^|\.)wizliebeg\.com$
 (^|\.)wizwarsum\.site$
 (^|\.)wj\.jiancai365\.cn$
 (^|\.)wjdfv\.com$
@@ -10011,6 +10103,7 @@
 (^|\.)wotto\.cn$
 (^|\.)wowad\.wow-classic\.com$
 (^|\.)wowips\.com$
+(^|\.)wowjogsot\.com$
 (^|\.)wowoyy\.cc$
 (^|\.)woyvk\.cn$
 (^|\.)wph2\.destinia\.us$
@@ -10360,6 +10453,7 @@
 (^|\.)ydouu\.com$
 (^|\.)ydqzkj\.com$
 (^|\.)ydrinkletremem\.site$
+(^|\.)ydziox\.cn$
 (^|\.)yeas\.yahoo\.co\.jp$
 (^|\.)yebadu\.com$
 (^|\.)yenlm\.com$
@@ -10367,6 +10461,7 @@
 (^|\.)yepsobtax\.com$
 (^|\.)yese115\.com$
 (^|\.)yese161\.com$
+(^|\.)yese236\.com$
 (^|\.)yeshhaod\.com$
 (^|\.)yestedshere\.site$
 (^|\.)yetaiguang\.cn$
@@ -10376,6 +10471,7 @@
 (^|\.)yezijizhang\.com$
 (^|\.)yf898\.com$
 (^|\.)yfano\.com$
+(^|\.)yfubi\.com$
 (^|\.)yfxixi\.com$
 (^|\.)yfycy\.com$
 (^|\.)yfyoyo\.com$
@@ -10487,6 +10583,7 @@
 (^|\.)yrrsckr\.cn$
 (^|\.)yrzyks\.cn$
 (^|\.)ys\.muhoujiemi\.com$
+(^|\.)ys2000\.cdn\.bcebos\.com$
 (^|\.)ys6ot\.cn$
 (^|\.)ysdhe\.com$
 (^|\.)ysgsq\.cn$
@@ -10623,6 +10720,7 @@
 (^|\.)zhangkc\.com$
 (^|\.)zhanjiangletian\.com$
 (^|\.)zhao258\.com$
+(^|\.)zhenglianabang\.vip$
 (^|\.)zhengyejixie\.com$
 (^|\.)zhengzhoupengbo\.com$
 (^|\.)zhfosenghtr\.com$
@@ -10702,6 +10800,7 @@
 (^|\.)zonolali\.com$
 (^|\.)zooahm2fx2v1\.com$
 (^|\.)zoom\.zshu\.net$
+(^|\.)zop381q5o0q1\.com$
 (^|\.)zopeynxv\.top$
 (^|\.)zorbikala\.com$
 (^|\.)zortinah\.com$
@@ -10839,6 +10938,7 @@
 139.196.166.21
 146.148.85.61
 154.83.113.19
+156.247.99.219
 162.209.213.66
 164.155.185.254
 167.206.10.148

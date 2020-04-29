@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-25 20:02:27
-# 数量：2556条
+# 更新：2020-04-29 23:29:30
+# 数量：2565条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,analytics.21cn.com
 DOMAIN-SUFFIX,analytics.30m.com
 DOMAIN-SUFFIX,analytics.aasaam.com
 DOMAIN-SUFFIX,analytics.adfreetime.com
+DOMAIN-SUFFIX,analytics.agoda.com
 DOMAIN-SUFFIX,analytics.allovoisins.com
 DOMAIN-SUFFIX,analytics.amakings.com
 DOMAIN-SUFFIX,analytics.anvato.net
@@ -357,6 +358,7 @@ DOMAIN-SUFFIX,behave.noen.at
 DOMAIN-SUFFIX,behave.sn.at
 DOMAIN-SUFFIX,belicimo.pw
 DOMAIN-SUFFIX,bench.uc.cn
+DOMAIN-SUFFIX,bento.agoda.com
 DOMAIN-SUFFIX,berateveng.ru
 DOMAIN-SUFFIX,besti.ga
 DOMAIN-SUFFIX,bglog.bitauto.com
@@ -600,6 +602,7 @@ DOMAIN-SUFFIX,counter.rambler.ru
 DOMAIN-SUFFIX,counter.rian.ru
 DOMAIN-SUFFIX,counter.scribblelive.com
 DOMAIN-SUFFIX,counter.search.bg
+DOMAIN-SUFFIX,counter.sibnet.ru
 DOMAIN-SUFFIX,counter.sina.com.cn
 DOMAIN-SUFFIX,counter.snackly.co
 DOMAIN-SUFFIX,counter.sparklit.com
@@ -823,6 +826,7 @@ DOMAIN-SUFFIX,event-reporting-dot-webylytics.appspot.com
 DOMAIN-SUFFIX,event.api.drift.com
 DOMAIN-SUFFIX,event.dkb.de
 DOMAIN-SUFFIX,event.getblue.io
+DOMAIN-SUFFIX,event.notifier.rakuten.co.jp
 DOMAIN-SUFFIX,eventapi.libring.com
 DOMAIN-SUFFIX,eventgateway.soundcloud.com
 DOMAIN-SUFFIX,eventlog.inspsearchapi.com
@@ -944,6 +948,8 @@ DOMAIN-SUFFIX,geoip.al.com
 DOMAIN-SUFFIX,geoip.boredpanda.com
 DOMAIN-SUFFIX,geoip.cleveland.com
 DOMAIN-SUFFIX,geoip.gulflive.com
+DOMAIN-SUFFIX,geoip.hmageo.com
+DOMAIN-SUFFIX,geoip.ifunny.co
 DOMAIN-SUFFIX,geoip.inquirer.net
 DOMAIN-SUFFIX,geoip.lehighvalleylive.com
 DOMAIN-SUFFIX,geoip.masslive.com
@@ -1512,6 +1518,7 @@ DOMAIN-SUFFIX,ra.ripple6.com
 DOMAIN-SUFFIX,radar.imgsmail.ru
 DOMAIN-SUFFIX,ramp.purch.com
 DOMAIN-SUFFIX,rand.com.ru
+DOMAIN-SUFFIX,rat.rakuten.co.jp
 DOMAIN-SUFFIX,rbc.magna.ru
 DOMAIN-SUFFIX,rc.rlcdn.com
 DOMAIN-SUFFIX,rcgi.video.qq.com
@@ -1567,6 +1574,7 @@ DOMAIN-SUFFIX,rtn.thestar.com
 DOMAIN-SUFFIX,rtt.campanja.com
 DOMAIN-SUFFIX,rum.conde.io
 DOMAIN-SUFFIX,rum.marquardmedia.hu
+DOMAIN-SUFFIX,rum.minutemediaservices.com
 DOMAIN-SUFFIX,rum.nccgroup-webperf.com
 DOMAIN-SUFFIX,rv.modanisa.com
 DOMAIN-SUFFIX,rva.outbrain.com
@@ -1980,6 +1988,7 @@ DOMAIN-SUFFIX,t.a3cloud.net
 DOMAIN-SUFFIX,t.adlpo.com
 DOMAIN-SUFFIX,t.allmodern.com
 DOMAIN-SUFFIX,t.appsflyer.com
+DOMAIN-SUFFIX,t.av.st
 DOMAIN-SUFFIX,t.beopinion.com
 DOMAIN-SUFFIX,t.bimvid.com
 DOMAIN-SUFFIX,t.birchlane.com
