@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-29 23:29:25
-# 数量：5063条
+# 更新：2020-04-30 23:26:41
+# 数量：5068条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -272,6 +272,7 @@ DOMAIN-SUFFIX,360safego.com
 DOMAIN-SUFFIX,360shopping.com.cn
 DOMAIN-SUFFIX,360zuowen.net
 DOMAIN-SUFFIX,361315.cc
+DOMAIN-SUFFIX,365339.top
 DOMAIN-SUFFIX,365bibi.com
 DOMAIN-SUFFIX,365che.cc
 DOMAIN-SUFFIX,365safego.com
@@ -659,6 +660,7 @@ DOMAIN-SUFFIX,abfirst.cn
 DOMAIN-SUFFIX,abie10.top
 DOMAIN-SUFFIX,abie11.top
 DOMAIN-SUFFIX,abie12.top
+DOMAIN-SUFFIX,abie13.top
 DOMAIN-SUFFIX,abie25.top
 DOMAIN-SUFFIX,abie9.top
 DOMAIN-SUFFIX,abuse8.com
@@ -2512,6 +2514,7 @@ DOMAIN-SUFFIX,jixiby.cn
 DOMAIN-SUFFIX,jiyan.net
 DOMAIN-SUFFIX,jiyou2014.com
 DOMAIN-SUFFIX,jiyuanzixun.com
+DOMAIN-SUFFIX,jjhaolin.com
 DOMAIN-SUFFIX,jjqyk.com
 DOMAIN-SUFFIX,jjxgly.com
 DOMAIN-SUFFIX,jjz666.cn
@@ -3627,6 +3630,7 @@ DOMAIN-SUFFIX,sa.sina.cn
 DOMAIN-SUFFIX,sadobo.com
 DOMAIN-SUFFIX,saf588.com
 DOMAIN-SUFFIX,safe524.xyz
+DOMAIN-SUFFIX,safe555.xyz
 DOMAIN-SUFFIX,saferwet.com
 DOMAIN-SUFFIX,saitef.cn
 DOMAIN-SUFFIX,salary.xiao84.com
@@ -4001,6 +4005,7 @@ DOMAIN-SUFFIX,tkssw.com
 DOMAIN-SUFFIX,tl875f.cn
 DOMAIN-SUFFIX,tmmjgcp.cn
 DOMAIN-SUFFIX,tmrmixer.cn
+DOMAIN-SUFFIX,tnarzc.com
 DOMAIN-SUFFIX,tngmn.com
 DOMAIN-SUFFIX,tochgw.com
 DOMAIN-SUFFIX,togo666.com

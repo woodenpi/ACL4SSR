@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-29 23:29:30
-# 数量：2565条
+# 更新：2020-04-30 23:26:46
+# 数量：2568条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -176,6 +176,7 @@ DOMAIN-SUFFIX,analytics.myfidevs.io
 DOMAIN-SUFFIX,analytics.myfinance.com
 DOMAIN-SUFFIX,analytics.newscred.com
 DOMAIN-SUFFIX,analytics.ngfiles.com
+DOMAIN-SUFFIX,analytics.nike.com
 DOMAIN-SUFFIX,analytics.onlyonlinemarketing.com
 DOMAIN-SUFFIX,analytics.optilead.co.uk
 DOMAIN-SUFFIX,analytics.orenshmu.com
@@ -269,6 +270,7 @@ DOMAIN-SUFFIX,api.nobeta.com.br
 DOMAIN-SUFFIX,api.wipmania.com
 DOMAIN-SUFFIX,apple.www.letv.com
 DOMAIN-SUFFIX,ar.i-run.fr
+DOMAIN-SUFFIX,argos.citruserve.com
 DOMAIN-SUFFIX,as.base.de
 DOMAIN-SUFFIX,as.mirapodo.de
 DOMAIN-SUFFIX,as.mytoys.de
@@ -2002,6 +2004,7 @@ DOMAIN-SUFFIX,t.cinemablend.com
 DOMAIN-SUFFIX,t.clic2buy.com
 DOMAIN-SUFFIX,t.eharmony.com
 DOMAIN-SUFFIX,t.etraveli.com
+DOMAIN-SUFFIX,t.felmat.net
 DOMAIN-SUFFIX,t.flux.com
 DOMAIN-SUFFIX,t.freelancer.com
 DOMAIN-SUFFIX,t.hypers.com.cn
