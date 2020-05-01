@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-04-30 23:26:41
-# 数量：5068条
+# 更新：2020-05-01 16:16:56
+# 数量：5072条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -668,6 +668,7 @@ DOMAIN-SUFFIX,ac.86huoche.com
 DOMAIN-SUFFIX,ac.art456.com
 DOMAIN-SUFFIX,ac1.786ip.com
 DOMAIN-SUFFIX,ac1.faxingchina.com
+DOMAIN-SUFFIX,ac1.pingpingw.com
 DOMAIN-SUFFIX,acaog.com
 DOMAIN-SUFFIX,acaox.com
 DOMAIN-SUFFIX,acaoz.com
@@ -1877,6 +1878,7 @@ DOMAIN-SUFFIX,gdhdfs.com
 DOMAIN-SUFFIX,gdlbdzkj.com
 DOMAIN-SUFFIX,gdlvbiaokeji.cn
 DOMAIN-SUFFIX,gdskywings.com
+DOMAIN-SUFFIX,gdsoq.com
 DOMAIN-SUFFIX,gdsqwy.org
 DOMAIN-SUFFIX,gdunt.com
 DOMAIN-SUFFIX,gdyjs.com
@@ -2204,6 +2206,7 @@ DOMAIN-SUFFIX,hnkuangshan.cn
 DOMAIN-SUFFIX,hnpjshop.com
 DOMAIN-SUFFIX,hntymg.com
 DOMAIN-SUFFIX,hnwjlhg.cn
+DOMAIN-SUFFIX,hnxahz.com
 DOMAIN-SUFFIX,hnyiche3.com
 DOMAIN-SUFFIX,hnyny.com
 DOMAIN-SUFFIX,hnzyfs.com
@@ -3477,6 +3480,7 @@ DOMAIN-SUFFIX,qiqivv.com
 DOMAIN-SUFFIX,qiqiww.com
 DOMAIN-SUFFIX,qiqiyii.com
 DOMAIN-SUFFIX,qiruidea.com
+DOMAIN-SUFFIX,qivsod.com
 DOMAIN-SUFFIX,qiyeb.iaskbus.com
 DOMAIN-SUFFIX,qiyuniot.com
 DOMAIN-SUFFIX,qjjtc.com

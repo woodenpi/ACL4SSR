@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-04-30 23:26:46
-# 数量：2568条
+# 更新：2020-05-01 16:17:04
+# 数量：2573条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -479,6 +479,7 @@ DOMAIN-SUFFIX,cm.g.doubleclick.net
 DOMAIN-SUFFIX,cmap.alibaba.com
 DOMAIN-SUFFIX,cmp.arnnet.com.au
 DOMAIN-SUFFIX,cmp.channelpartner.de
+DOMAIN-SUFFIX,cmp.cio.com
 DOMAIN-SUFFIX,cmp.cio.com.au
 DOMAIN-SUFFIX,cmp.cmo.com.au
 DOMAIN-SUFFIX,cmp.computerworld.com.au
@@ -487,6 +488,9 @@ DOMAIN-SUFFIX,cmp.csoonline.com
 DOMAIN-SUFFIX,cmp.digitalartsonline.co.uk
 DOMAIN-SUFFIX,cmp.dreamlab.pl
 DOMAIN-SUFFIX,cmp.greenbot.com
+DOMAIN-SUFFIX,cmp.idginsiderpro.com
+DOMAIN-SUFFIX,cmp.infoworld.com
+DOMAIN-SUFFIX,cmp.javaworld.com
 DOMAIN-SUFFIX,cmp.macworld.co.uk
 DOMAIN-SUFFIX,cmp.macworld.com
 DOMAIN-SUFFIX,cmp.osano.com
@@ -495,6 +499,7 @@ DOMAIN-SUFFIX,cmp.pcworld.com
 DOMAIN-SUFFIX,cmp.pcworld.idg.com.au
 DOMAIN-SUFFIX,cmp.tech426.com
 DOMAIN-SUFFIX,cmp.techadvisor.co.uk
+DOMAIN-SUFFIX,cmp.techconnect.com
 DOMAIN-SUFFIX,cmp.techhive.com
 DOMAIN-SUFFIX,cmstool.youku.com
 DOMAIN-SUFFIX,cmstrendslog.indiatimes.com
