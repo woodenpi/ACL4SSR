@@ -1519,7 +1519,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9456条
+# 数量：9466条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2302,6 +2302,7 @@
 (^|\.)ac\.mz-web\.de$
 (^|\.)ac1\.786ip\.com$
 (^|\.)ac1\.faxingchina\.com$
+(^|\.)ac1\.pingpingw\.com$
 (^|\.)acaog\.com$
 (^|\.)acaox\.com$
 (^|\.)acaoz\.com$
@@ -3582,6 +3583,7 @@
 (^|\.)ci-web\.cn$
 (^|\.)ciajingman\.com$
 (^|\.)cike666\.com$
+(^|\.)ciksolre\.net$
 (^|\.)cindy17club\.com$
 (^|\.)ciridola\.com$
 (^|\.)city009\.com$
@@ -3657,6 +3659,7 @@
 (^|\.)cmm\.xmfish\.com$
 (^|\.)cmp\.arnnet\.com\.au$
 (^|\.)cmp\.channelpartner\.de$
+(^|\.)cmp\.cio\.com$
 (^|\.)cmp\.cio\.com\.au$
 (^|\.)cmp\.cmo\.com\.au$
 (^|\.)cmp\.computerworld\.com\.au$
@@ -3665,6 +3668,9 @@
 (^|\.)cmp\.digitalartsonline\.co\.uk$
 (^|\.)cmp\.dreamlab\.pl$
 (^|\.)cmp\.greenbot\.com$
+(^|\.)cmp\.idginsiderpro\.com$
+(^|\.)cmp\.infoworld\.com$
+(^|\.)cmp\.javaworld\.com$
 (^|\.)cmp\.macworld\.co\.uk$
 (^|\.)cmp\.macworld\.com$
 (^|\.)cmp\.osano\.com$
@@ -3673,6 +3679,7 @@
 (^|\.)cmp\.pcworld\.idg\.com\.au$
 (^|\.)cmp\.tech426\.com$
 (^|\.)cmp\.techadvisor\.co\.uk$
+(^|\.)cmp\.techconnect\.com$
 (^|\.)cmp\.techhive\.com$
 (^|\.)cms\.fx678\.com$
 (^|\.)cms\.fx678img\.com$
@@ -5037,6 +5044,7 @@
 (^|\.)gdm1\.toner\.fr$
 (^|\.)gdmconvtrck\.com$
 (^|\.)gdskywings\.com$
+(^|\.)gdsoq\.com$
 (^|\.)gdsqwy\.org$
 (^|\.)gdunt\.com$
 (^|\.)gdyjs\.com$
@@ -5536,6 +5544,7 @@
 (^|\.)hnpjshop\.com$
 (^|\.)hntymg\.com$
 (^|\.)hnwjlhg\.cn$
+(^|\.)hnxahz\.com$
 (^|\.)hnyiche3\.com$
 (^|\.)hnyny\.com$
 (^|\.)hnzyfs\.com$
@@ -7824,6 +7833,7 @@
 (^|\.)qiqiww\.com$
 (^|\.)qiqiyii\.com$
 (^|\.)qiruidea\.com$
+(^|\.)qivsod\.com$
 (^|\.)qiyeb\.iaskbus\.com$
 (^|\.)qiyuniot\.com$
 (^|\.)qjjtc\.com$
