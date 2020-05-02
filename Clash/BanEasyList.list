@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyList列表，包含ABP中的 EasyList + EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
-# 更新：2020-05-01 16:16:59
-# 数量：6896条
+# 更新：2020-05-02 21:04:16
+# 数量：6912条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -259,6 +259,7 @@ DOMAIN-SUFFIX,2f48a41ea4.com
 DOMAIN-SUFFIX,2fnrc.cn
 DOMAIN-SUFFIX,2fx32.cn
 DOMAIN-SUFFIX,2g2h.com
+DOMAIN-SUFFIX,2g6gj3aojcrj.com
 DOMAIN-SUFFIX,2gvuukm1lm.com
 DOMAIN-SUFFIX,2hqd0b.cn
 DOMAIN-SUFFIX,2ktd0.cn
@@ -394,6 +395,7 @@ DOMAIN-SUFFIX,52lubo.cn
 DOMAIN-SUFFIX,52tushuo.com
 DOMAIN-SUFFIX,52yugan.com
 DOMAIN-SUFFIX,52zfl.com
+DOMAIN-SUFFIX,53txs.com
 DOMAIN-SUFFIX,542fe1b0002a.com
 DOMAIN-SUFFIX,550tg.com
 DOMAIN-SUFFIX,551f044b1a3f4ef.com
@@ -672,6 +674,7 @@ DOMAIN-SUFFIX,a.rensheng5.com
 DOMAIN-SUFFIX,a.shenchuang.com
 DOMAIN-SUFFIX,a.thn21.com
 DOMAIN-SUFFIX,a.tiyuxiu.com
+DOMAIN-SUFFIX,a.tuizhuti.com
 DOMAIN-SUFFIX,a.tvsou.com
 DOMAIN-SUFFIX,a.ucoz.net
 DOMAIN-SUFFIX,a.w3techs.com
@@ -889,6 +892,7 @@ DOMAIN-SUFFIX,afefw.com
 DOMAIN-SUFFIX,aff.eteachergroup.com
 DOMAIN-SUFFIX,aff.marathonbet.com
 DOMAIN-SUFFIX,aff.svjump.com
+DOMAIN-SUFFIX,affiliate-api.ti-media.net
 DOMAIN-SUFFIX,affiliate.heureka.cz
 DOMAIN-SUFFIX,affiliate6.com
 DOMAIN-SUFFIX,affiliateprogram.keywordspy.com
@@ -992,6 +996,7 @@ DOMAIN-SUFFIX,allluck.cn
 DOMAIN-SUFFIX,allxin.com
 DOMAIN-SUFFIX,allycollegedstrie.info
 DOMAIN-SUFFIX,alryo.cn
+DOMAIN-SUFFIX,alwsbnvialll.com
 DOMAIN-SUFFIX,alzwa133.xyz
 DOMAIN-SUFFIX,am.szhome.com
 DOMAIN-SUFFIX,amazingfunnvideos.com
@@ -1527,6 +1532,7 @@ DOMAIN-SUFFIX,cdlinli.com
 DOMAIN-SUFFIX,cdn.rtclx.com
 DOMAIN-SUFFIX,cdn.wuyou.ca
 DOMAIN-SUFFIX,cdn1.tvzhe.com
+DOMAIN-SUFFIX,cdn4ads.com
 DOMAIN-SUFFIX,cdnads.com
 DOMAIN-SUFFIX,cdnjsp.wang
 DOMAIN-SUFFIX,cdnny.com
@@ -1635,6 +1641,7 @@ DOMAIN-SUFFIX,city009.com
 DOMAIN-SUFFIX,civitik.com
 DOMAIN-SUFFIX,cj-cy.com
 DOMAIN-SUFFIX,cj1.256.cc
+DOMAIN-SUFFIX,cjf25jklrwqt.com
 DOMAIN-SUFFIX,cjh9.cn
 DOMAIN-SUFFIX,cjieh.com
 DOMAIN-SUFFIX,cjsdtj.com
@@ -1710,6 +1717,7 @@ DOMAIN-SUFFIX,cojia.net
 DOMAIN-SUFFIX,collector.viki.io
 DOMAIN-SUFFIX,collectpush.com
 DOMAIN-SUFFIX,collectrom.com
+DOMAIN-SUFFIX,coloniansheraz.site
 DOMAIN-SUFFIX,comberry.cn
 DOMAIN-SUFFIX,comesgo.com
 DOMAIN-SUFFIX,commercedirections.com
@@ -1902,7 +1910,6 @@ DOMAIN-SUFFIX,daliantong.com.cn
 DOMAIN-SUFFIX,damelaurig.info
 DOMAIN-SUFFIX,dami66.cn
 DOMAIN-SUFFIX,damiren.com
-DOMAIN-SUFFIX,dampdock.com
 DOMAIN-SUFFIX,damumu.xyz
 DOMAIN-SUFFIX,danangmo.cn
 DOMAIN-SUFFIX,dandan11.top
@@ -1963,6 +1970,7 @@ DOMAIN-SUFFIX,deacon.ghfkk.com
 DOMAIN-SUFFIX,deatheriwevo.site
 DOMAIN-SUFFIX,debadu.com
 DOMAIN-SUFFIX,decisionediv.site
+DOMAIN-SUFFIX,decordingaudied.site
 DOMAIN-SUFFIX,defeatureother.site
 DOMAIN-SUFFIX,definitedikdra.site
 DOMAIN-SUFFIX,dehua.ixinfan.com
@@ -2112,6 +2120,7 @@ DOMAIN-SUFFIX,drjgjngf.com
 DOMAIN-SUFFIX,drlsf.com
 DOMAIN-SUFFIX,drmfslx.cn
 DOMAIN-SUFFIX,drogomet.com
+DOMAIN-SUFFIX,droztihu.com
 DOMAIN-SUFFIX,drxrc.com
 DOMAIN-SUFFIX,dryzapsol.com
 DOMAIN-SUFFIX,dscry.com
@@ -2359,6 +2368,7 @@ DOMAIN-SUFFIX,farm-cn.plista.com
 DOMAIN-SUFFIX,farpeiros.pw
 DOMAIN-SUFFIX,fastable.com
 DOMAIN-SUFFIX,fastdld.com
+DOMAIN-SUFFIX,fastdln.com
 DOMAIN-SUFFIX,fastpopclick.com
 DOMAIN-SUFFIX,fastpopunder.com
 DOMAIN-SUFFIX,fatbuydoc.com
@@ -4202,6 +4212,7 @@ DOMAIN-SUFFIX,mzclass.club
 DOMAIN-SUFFIX,n0h8g.cn
 DOMAIN-SUFFIX,n8n7.me
 DOMAIN-SUFFIX,nabeghlavi.com.cn
+DOMAIN-SUFFIX,nacfuns.com
 DOMAIN-SUFFIX,nadjustifygas.info
 DOMAIN-SUFFIX,naetoris.pw
 DOMAIN-SUFFIX,nailowhe.net
@@ -4506,6 +4517,7 @@ DOMAIN-SUFFIX,overlordtea.cn
 DOMAIN-SUFFIX,overnmentil.site
 DOMAIN-SUFFIX,overnmenty.club
 DOMAIN-SUFFIX,overribleintena.info
+DOMAIN-SUFFIX,ovk2cuebg77t.com
 DOMAIN-SUFFIX,oweverycanvas.info
 DOMAIN-SUFFIX,owusxlr.cn
 DOMAIN-SUFFIX,ox-i.cordillera.tv
@@ -4887,6 +4899,7 @@ DOMAIN-SUFFIX,qzylyp.com
 DOMAIN-SUFFIX,qzzljx.com
 DOMAIN-SUFFIX,r.99waiyu.com
 DOMAIN-SUFFIX,r.radikal.ru
+DOMAIN-SUFFIX,r6ztccbkdrbi.com
 DOMAIN-SUFFIX,r8nr2lzeqakd.com
 DOMAIN-SUFFIX,rabc1.iteye.com
 DOMAIN-SUFFIX,rack.bauermedia.co.uk
@@ -5136,6 +5149,7 @@ DOMAIN-SUFFIX,self-study-service.com.cn
 DOMAIN-SUFFIX,senolati.com
 DOMAIN-SUFFIX,seordl.cn
 DOMAIN-SUFFIX,servedby.keygamesnetwork.com
+DOMAIN-SUFFIX,setemoump.com
 DOMAIN-SUFFIX,sexagogal.site
 DOMAIN-SUFFIX,sezvc.com
 DOMAIN-SUFFIX,sfanf.com
@@ -5242,6 +5256,7 @@ DOMAIN-SUFFIX,sjczsc.com
 DOMAIN-SUFFIX,sjgnskf.com
 DOMAIN-SUFFIX,sjljz.cn
 DOMAIN-SUFFIX,sjmwkj.cn
+DOMAIN-SUFFIX,sjscxhknxeek.com
 DOMAIN-SUFFIX,sjuqc.com
 DOMAIN-SUFFIX,sjy-stone.com.cn
 DOMAIN-SUFFIX,skatehot.net
@@ -5946,6 +5961,7 @@ DOMAIN-SUFFIX,wapadv.com
 DOMAIN-SUFFIX,waptime.net
 DOMAIN-SUFFIX,warron.cn
 DOMAIN-SUFFIX,warsalsintrol.site
+DOMAIN-SUFFIX,watakaw133.xyz
 DOMAIN-SUFFIX,watchingssui.info
 DOMAIN-SUFFIX,watchsk.com
 DOMAIN-SUFFIX,waugeboa.net
