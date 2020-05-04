@@ -1,6 +1,6 @@
 #**********************************************************************
-# 05.02
-# 2020年5月2日21:07:05
+# 05.04
+# 2020年5月4日22:54:07
 # 转载需要注明版权和来源
 # 全部规则来自GFWList 没有白名单
 #
@@ -1218,6 +1218,7 @@
 (^|\.)brucelead\.com$
 (^|\.)bttrack\.com$
 (^|\.)casalemedia\.com$
+(^|\.)celtra\.com$
 (^|\.)channeladvisor\.com$
 (^|\.)connexity\.net$
 (^|\.)criteo\.com$
@@ -1247,6 +1248,7 @@
 (^|\.)i-mobile\.co\.jp$
 (^|\.)imrworldwide\.com$
 (^|\.)inmobi\.com$
+(^|\.)inner-active\.mobi$
 (^|\.)intentiq\.com$
 (^|\.)inter1ads\.com$
 (^|\.)ipredictive\.com$
@@ -1275,6 +1277,7 @@
 (^|\.)mobfox\.com$
 (^|\.)mobileadtrading\.com$
 (^|\.)mobilityware\.com$
+(^|\.)mojiva\.com$
 (^|\.)mookie1\.com$
 (^|\.)msads\.net$
 (^|\.)mydas\.mobi$
@@ -1309,7 +1312,6 @@
 (^|\.)tapjoy\.com$
 (^|\.)tapjoyads\.com$
 (^|\.)trafficjunky\.com$
-(^|\.)trafficjunky\.net$
 (^|\.)tribalfusion\.com$
 (^|\.)turn\.com$
 (^|\.)vidoomy\.com$

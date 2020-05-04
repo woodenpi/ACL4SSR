@@ -1,6 +1,6 @@
 #**********************************************************************
-# 05.02
-# 2020年5月2日21:07:05
+# 05.04
+# 2020年5月4日22:54:07
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -1227,6 +1227,7 @@
 (^|\.)brucelead\.com$
 (^|\.)bttrack\.com$
 (^|\.)casalemedia\.com$
+(^|\.)celtra\.com$
 (^|\.)channeladvisor\.com$
 (^|\.)connexity\.net$
 (^|\.)criteo\.com$
@@ -1256,6 +1257,7 @@
 (^|\.)i-mobile\.co\.jp$
 (^|\.)imrworldwide\.com$
 (^|\.)inmobi\.com$
+(^|\.)inner-active\.mobi$
 (^|\.)intentiq\.com$
 (^|\.)inter1ads\.com$
 (^|\.)ipredictive\.com$
@@ -1284,6 +1286,7 @@
 (^|\.)mobfox\.com$
 (^|\.)mobileadtrading\.com$
 (^|\.)mobilityware\.com$
+(^|\.)mojiva\.com$
 (^|\.)mookie1\.com$
 (^|\.)msads\.net$
 (^|\.)mydas\.mobi$
