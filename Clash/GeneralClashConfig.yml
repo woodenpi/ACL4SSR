@@ -596,6 +596,7 @@ cfw-bypass:
   # AccelerateDirectSites
   - "*.12306.com"
   - "*.17173.com"
+  - "*.178.com"
   - "*.17k.com"
   - "*.360doc.com"
   - "*.36kr.com"
