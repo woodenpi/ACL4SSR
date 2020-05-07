@@ -858,7 +858,6 @@
 (^|\.)allyes\.cn$
 (^|\.)allyes\.com$
 (^|\.)amazon-adsystem\.com$
-(^|\.)amplitude\.com$
 (^|\.)analysys\.cn$
 (^|\.)angsrvr\.com$
 (^|\.)anquan\.org$
@@ -11526,6 +11525,7 @@
 # AccelerateDirectSites
 (^|\.)12306\.com$
 (^|\.)17173\.com$
+(^|\.)178\.com$
 (^|\.)17k\.com$
 (^|\.)360doc\.com$
 (^|\.)36kr\.com$
@@ -18120,6 +18120,7 @@
 (^|\.)reddit\.com$
 (^|\.)redhat\.com$
 (^|\.)sonatype\.org$
+(^|\.)sourcegraph\.com$
 (^|\.)spring\.io$
 (^|\.)spring\.net$
 (^|\.)stackoverflow\.com$

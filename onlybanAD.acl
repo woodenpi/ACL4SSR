@@ -861,7 +861,6 @@
 (^|\.)allyes\.cn$
 (^|\.)allyes\.com$
 (^|\.)amazon-adsystem\.com$
-(^|\.)amplitude\.com$
 (^|\.)analysys\.cn$
 (^|\.)angsrvr\.com$
 (^|\.)anquan\.org$
@@ -1733,6 +1732,7 @@
 (^|\.)reddit\.com$
 (^|\.)redhat\.com$
 (^|\.)sonatype\.org$
+(^|\.)sourcegraph\.com$
 (^|\.)spring\.io$
 (^|\.)spring\.net$
 (^|\.)stackoverflow\.com$
