@@ -1,6 +1,6 @@
 #**********************************************************************
-# 10.24
-# 2017年10月24日 18:46:03
+# 05.02
+# 2020年5月2日21:07:05
 # 适用于SSR C#客户端
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
 #
@@ -5459,7 +5459,6 @@
 .rp.baidu.com reject
 .spcode.baidu.com reject
 .tk.baidu.com reject
-.tongji.baidu.com reject
 .tuisong.baidu.com reject
 .ucstat.baidu.com reject
 .ufosdk.baidu.com reject
